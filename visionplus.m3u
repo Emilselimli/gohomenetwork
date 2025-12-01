@@ -1122,7 +1122,58 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19094/index.m3u8
 #EXTINF:0 tvg-rec="0",																UniNettuno University TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19089/index.m3u8
 
-#EXTINF:-1,																	Real Madrid TV
+#EXTINF:0 tvg-rec="0",                                                                                              ORF 1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15177/index.m3u8
+
+#EXTINF:0 tvg-rec="0",                                                                                              Das Erste HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15172/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              ZDF HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6059/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ZDFinfo HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/17042/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              VOX HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6061/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Universal TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6094/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Warner TV Serie HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6090/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Warner TV Film 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6111/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              SIXX HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15170/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              ProSieben HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6057/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ProSieben Maxx 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15174/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              WDR HD (Aachen) 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15173/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              KiKA 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15175/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Welt  HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7258/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              N-TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7259/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Welt 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15169/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Arte DE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15171/index.m3u8
+#EXTINF:0 tvg-rec="0" ,                                                                                             ATV DE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15176/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              RTL HD DE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6062/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              RTL Zwei HD DE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6065/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              RTL Crime HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15178/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              RTL Passion HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7230/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Sat.1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6060/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Nitro DE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6064/index.m3u8
+
+#EXTINF:-1,																	                                                                        Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 
 
