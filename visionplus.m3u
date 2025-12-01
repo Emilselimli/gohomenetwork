@@ -1,0 +1,1129 @@
+﻿#EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml"
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/az-tv-az.png",									AzTV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/966/index.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az"  tvg-logo="https://www.lyngsat.com/logo/tv/mm/medeniyyet-tv-az.png",				Medeniyyet TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2197/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/idman-tv-az.png",								Idman TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2198/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/ictimai-tv-az.png",								Ictimai TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2195/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azad_tv_az.png",								ATV AZ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16045/index.m3u8
+#EXTINF:-1 tvg-logo="",															ATV Cinema 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2120/index.m3u8
+#EXTINF:-1 tvg-logo="",															ATV Vivace 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16068/index.m3u8
+#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" ,									ARB
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2187/index.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" 								ARB 24
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2188/index.m3u8
+#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" ,								ARB Gunesh
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2189/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43h3krLh/images-1.jpg", 									Kepez TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/eltv_logo.png",										ELTV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png",								Dunya TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2192/index.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/xazar.png",											Xazar TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2199/index.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/mtv.png",											MTV Azerbaycan
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2191/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/space-tv-az.png",								Space TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2190/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc_sport_az.png",								CBC Sport HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2193/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-az.png",									CBC TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1050/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baku-tv-az.svg",								BAKU TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16047/index.m3u8
+#EXTINF:0 tvg-rec="0",															VIP TV Azerbaycan
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16052/index.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/apatv.png",											APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/real.svg",											REAL TV
+https://str.yodacdn.net/real/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/logos/qafqaz.svg",									Qafqaz TV  (!not 24/7)
+https://str.yodacdn.net/qafkaz/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/start.png",											KANAL S
+https://str.yodacdn.net/start/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jNtrJCK/download.png",  									STV (Sehiyye TV)
+https://str.yodacdn.net/shtv/mono.m3u8
+#EXTINF:-1,																TMB Azerbaycan 
+https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/tmb.png,  											TMB TV
+https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/biznestv.png", 										Biznes TV
+https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/kanal35.png",										KANAL 35  (!not 24/7)			
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/ntv.png",											NTV Naxchivan
+http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="", 														KTV (!not 24/7)
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 tvg-logo="", 														Alvin Channel
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u
+#EXTINF:-1 tvg-logo="",															Show Plus
+https://rtmp.showplus.tv/hls/myshow.m3u8
+
+#EXTINF:-1 tvg-logo="",															LIVE TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+
+#EXTINF:..............................................................................................................................................................
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg", 					KANAL D
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2304/index.m3u8
+#EXTINF:-1 tvg-name="FOX TV" tvg-id="Fox.tr"   	tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-turkiye-us-tr.svg", 				NOW TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2309/index.m3u8
+#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" 	tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png", 					teve 2
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2306/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg", 									Show TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2307/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/show_max_tr.png", 									Show Max
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6890/index.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png",						BEYAZ TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2310/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.svg", 										TRT 1 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2293/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-2-tr.svg", 										TRT 2 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6884/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-avaz-tr.png", 									TRT AVAZ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6799/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbmm_tv.png" ,										TBMM TV 
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8	
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-tr.svg", 									Bloomberg H/T
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2317/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg", 										NTV Turkiye
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6924/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr.png", 										ATV Turkiye
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2296/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-avrupa-tr.png", 									ATV Avrupa 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6888/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/aa/a_haber_tr.png", 								A HABER
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2259/index.m3u8
+#EXTINF:0 tvg-rec="3",																A NEWS
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6937/index.m3u8
+#EXTINF:0 tvg-rec="3",																A SPOR
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6832/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-turk-us-tr.svg", 								CNN Turk 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2305/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg", 									STAR TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2301/index.m3u8
+#EXTINF:0 tvg-rec="3",																Discovery Channel 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6861/index.m3u8
+#EXTINF:0 tvg-rec="3",																National Geographic 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6866/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us-uk.svg", 									DMAX HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2300/index.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png",								TLC HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6914/index.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png",								TLC 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6915/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt_belgesel.png", 									TGRT Belgesel
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6860/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5-tr.png", 										TV 5
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6751/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-100-tr.svg", 									TV 100
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2328/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro_star_tr.png", 									EURO STAR 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6894/index.m3u8
+#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png",							EURO D
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6892/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg", 									Kanal 7 
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-avrupa-tr.png", 								Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png", 									360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-4-tr.png", 										tv4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png", 									24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png", 									A2
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2260/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png", 									TV8 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2286/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-8-international-tr.png", 							TV8 Int HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6897/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png", 									TV 8.5 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6898/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/power_tr_tv.png", 									Power TV 
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/power_turk_tr_tv.png", 									Power Turk 
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/number1_tr_tv.png", 									NR1 TV 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/number1_tr_tv_turk.png", 								NR1 TURK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt-haber-tr.svg", 									TGRT Haber
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6796/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-haber-tr.svg", 									TRT HABER
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6921/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-turk-tr.png", 									TRT Turk
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6798/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/akit-tv-tr.png", 									Akit TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6780/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekol-tv-tr.svg", 									EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulke-tv-tr.svg", 								Ulke TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2311/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-net-tr.png", 									TV Net.
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6936/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gzt-tv-tr.svg", 									GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-cocuk-tr.svg",									TRT Çocuk
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6841/index.m3u8
+#EXTINF:-1 tvg-logo="", 															TRT Eba TV  
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6916/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg", 									TRT Belgesel
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6852/index.m3u8
+#EXTINF:-1 tvg-logo="", 															TRT Spor 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19072/index.m3u8
+#EXTINF:-1 tvg-logo="", 															TRT Spor Yildiz 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2145/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports_tv_tr.png", 									Sports TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6828/index.m3u8
+#EXTINF:0 tvg-rec="3",																S Sport 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6825/index.m3u8
+#EXTINF:0 tvg-rec="0",																Spor Smart HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20060/index.m3u8
+#EXTINF:0 tvg-rec="0",																Spor Smart 2 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19073/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tay-tv-tr.png", 									TAY TV
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/track_0_400/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fbtv_fenerbahce.png", 									FB TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b1096000_slTUR.m3u8
+#EXTINF:0 tvg-rec="3",																beIN Gurme HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6804/index.m3u8
+
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika-go-tr.png", 								Minika Go 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6851/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika_cocuk.png", 								Minika Cocuk 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6849/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-jr-us.svg", 								Disney Jr. 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6843/index.m3u8
+#EXTINF: ilooktv  tvg-logo="", 															Baby TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6845/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg", 							Cartoon Network 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6848/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon-us.svg", 								Nickelodeon HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6846/index.m3u8
+#EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoonito-us.svg", 								Cartoonito HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6850/index.m3u8
+#EXTINF:0 tvg-rec="3",																History HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6856/index.m3u8
+#EXTINF:0 tvg-rec="3",																Love Nature HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6864/index.m3u8
+#EXTINF:0 tvg-rec="3",																BBC Earth HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6854/index.m3u8
+#EXTINF:0 tvg-rec="3",																BBC Earth 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6855/index.m3u8
+#EXTINF:0 tvg-rec="3",																Da Vinci HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6857/index.m3u8
+#EXTINF:0 tvg-rec="3",																Yaban HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6787/index.m3u8
+#EXTINF:0 tvg-rec="0",																beIN IZ TV HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tarim-orman-tr.png",									Tarim TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png", 									Flash Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_1.m3u8
+#EXTINF:-1 tvg-logo="", 															DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w390984398.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/haberturk-tr.svg", 									Haber Turk
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6927/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg", 									Haber Global
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6928/index.m3u8
+#EXTINF:0 tvg-rec="3",																Ulusal Kanal 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6931/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-world-tr.svg", 									TRT World
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-arabi-tr.png", 									TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8	
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg", 											NR1 Aşk 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg", 											NR1 Damar 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg", 											NR1 Dance 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dream_tv_tr_turk.png", 									Dream Türk TV
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_2_550/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-muzik-tr.png", 									TRT Muzik
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6870/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/aca9e643-a4b0-4f01-abd5-66a5a2fc1042.png", 							Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", 															Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="", 															Power Türk Akustik 
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="", 															Power Türk Slow 
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="", 															Power Türk Taptaze 
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1,																	KRAL POP TV
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+
+#EXTINF:-1 tvg-name="FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" ,						FASHION ONE
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+
+#EXTINF:-1,																	Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:-1,																	Super Turk
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 tvg-logo="",																Tivi Turk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-logo="https://kanalavrupa.tv/wp-content/uploads/2020/03/K-AVRUPA-LOGO-300x240-1.png",						Kanal Avrupa
+https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-rec="3",																beIN Movies Family 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6878/index.m3u8
+#EXTINF:0 tvg-rec="3",																beIN Movies Premiere 2 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6879/index.m3u8
+#EXTINF:0 tvg-rec="3",																beIN Movies Premiere 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6880/index.m3u8
+#EXTINF:0 tvg-rec="3",																beIN Series Drama 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6882/index.m3u8
+#EXTINF:-1,																	KANAL D Drama
+https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
+#EXTINF:..............................................................................................................................................................
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/meltem-tv-tr.png", 									MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_130.png", 						Can Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astv-tr.png" , 								AS TV Bursa
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-6-tr.png" , 								ON6
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/brtv_tr.png", 										BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grt-tv-tr.png", 									GRT
+https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-3-tr.png", 									Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-58-tr.png", 									Kanal 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
+#EXTINF:-1 tvg-logo="", 															CINE 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_293.png", 						B! Kanal
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aksu-tv-tr.png", 									AKSU TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eskisehirin_tv_tr.png", 								ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_rtv_tr.png", 									SUN RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_v_tr.png", 									KANAL V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mercan-tv-tr.png", 									Mercan TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/guneydogu-tv-tr.png", 									Guneydogu TV
+https://edge.socialsmart.tv/gtv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kardelen_tv_tr.png", 									Kardelen TV
+https://edge.socialsmart.tv/kardelentv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_295.png?v=8" , 				ART WORLD
+https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anadolu-dernek-tv-tr.png" , 							Anadolu TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_91.png" , 					KAY TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kent-turk-tr.png" , 								KENT TURK
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														Erciyes TV
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														Konya OLAY
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														Kanal Plus
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														OLAY TURK
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														Deniz Postasi
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														HUNAT TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_26_tr.png" , 								KANAL 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														Kanal Z
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ciftci_tv_tr.png" , 								Ciftchi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mavi-karadeniz-tv-tr.png" , 							MK TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malatya-vuslat-tv-tr.png" , 							Vuslat TV (Malatya)
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
+#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" ,							TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_46.png" ,						ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aras-tv-tr.png" , 								Aras TV
+https://2.rtmp.org/tv217/yayin.stream/chunklist_w1916535662.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-1-tr.png",										TV 1
+https://edge.socialsmart.tv/tv1/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png",									KANAL 32
+https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-33-tr.png",									KANAL 33
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" , 														İcel TV
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="",																FRT Fethiye
+https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="",																ETV Manisa
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkhaber-tr.png",									Turk Haber TV
+https://clvd26.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altas-tv-tr.png",									Altash TV
+https://edge.socialsmart.tv/altastv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bir-tv-tr.png",										Bir TV
+https://clvd26.socialsmart.tv/birtv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/line_tv_tr.png",									Line TV Bursa
+https://clvd26.socialsmart.tv/linetv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kocaeli-tv-tr.png",									Kocaeli TV
+https://edge.socialsmart.tv/kocaelitv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kardelen_tv_tr.png",									Kardelen TV
+https://edge.socialsmart.tv/kardelentv/bant1/chunks.m3u8
+#EXTINF:0 tvg-rec="0",																Rumeli TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15256/index.m3u8
+#EXTINF:-1 tvg-logo="",																KANAL 34
+https://live.euromediacenter.com/kanal34/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png",									TYT TURK
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" ",															Slow Karadeniz TV
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+
+#EXTINF:..............................................................................................................................................................
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diyanet-tv-tr.png",									Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-diyanet-cocuk-tr.svg",								TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Lalegül TV" tvg-name="Lalegül TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HXMLHcS/lalegul.jpg",			Lalegül TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6790/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vav-tv-tr.svg",										VAV TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/semerkand-way-tr.png",									Samarkand Way
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/mt_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/semerkand-tv-tr.png",									Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dost-tv-tr.png",									Dost TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6793/index.m3u8
+#EXTINF:0 tvg-rec="3",																FM TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6789/index.m3u8
+
+#EXTINF:..............................................................................................................................................................
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayrak_radyosu_tv_1.png",								BRT 1
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/bb/brt-2-cy.png",										BRT 2
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/aa/ada_tv_cy.png",									ADA TV
+https://edge.kuzeykibrissmart.tv/adatv/bant1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kibris-genc-tv-cy.png",								GENÇ TV
+https://edge.kuzeykibrissmart.tv/kibrisgenctv/bant1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kibris-tv-cy.png",									KIBRIS TV
+https://play.kibristv.com/stream/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/simtv.png",									SIM TV 
+https://edge.kuzeykibrissmart.tv/simtv/bant1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-t-kibris-tr-cy.png",								KANAL T
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2020-cy.png",									TV2020
+https://edge.kuzeykibrissmart.tv/tv2020/bant1/chunks.m3u8
+
+#EXTINF:..............................................................................................................................................................
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asgabat-tm.png",									Asgabat
+https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altyn-asyr-tm.png",									Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/yaslyk-tm.png",										Yaslik
+https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/miras-tm.png",										Miras
+https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-tm.png",									Türkmenistan
+https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmen-owazy-tm.png",									Türkmen Owazy
+https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png",								Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arkadag-tm.png",									Arkadag
+https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
+#EXTINF:-1,																	Qazaqstan 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2210/index.m3u8
+#EXTINF:-1,																	Qazaqstan International 
+https://qazaqstantv-stream.qazcdn.com/international/international/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-rec="0",																QazSport HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14032/index.m3u8
+#EXTINF:-1,																	Q Arena HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20061/index.m3u8
+#EXTINF:-1,																	Q League HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20062/index.m3u8
+#EXTINF:0 tvg-rec="3",																Setanta Qazaqstan HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2399/index.m3u8
+#EXTINF:-1,																	КТК HD 
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w411649385_b1728000_slrus.m3u8
+#EXTINF:-1,																	24 
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1,																	Qadam TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15005/index.m3u8
+#EXTINF:-1,																	Ассамблея ТВ 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15004/index.m3u8
+#EXTINF:-1,																	Айгак 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15002/index.m3u8
+#EXTINF:-1,																	Ontustik
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15001/index.m3u8
+#EXTINF:-1,																	Otyrar
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14237/index.m3u8
+#EXTINF:-1,																	Qyzylord
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14233/index.m3u8
+#EXTINF:-1,																	Jambyl
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14232/index.m3u8
+#EXTINF:-1,																	Ulytau
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14231/index.m3u8
+#EXTINF:-1,																	Aqsham TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14223/index.m3u8
+#EXTINF:-1,																	Первый канал Евразия
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2212/index.m3u8
+#EXTINF:-1,																	Седьмой канал
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2213/index.m3u8
+#EXTINF:-1,																	Astana 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2214/index.m3u8
+#EXTINF:-1,																	Jibek Joly TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2215/index.m3u8
+#EXTINF:-1,																	El Arna 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2216/index.m3u8
+#EXTINF:-1,																	31 канал 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2217/index.m3u8
+#EXTINF:-1,																	НТК 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2218/index.m3u8
+#EXTINF:-1,																	Alatau TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2219/index.m3u8
+#EXTINF:-1,																	Туран ТВ 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2220/index.m3u8
+#EXTINF:-1,																	5 канал 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2221/index.m3u8
+#EXTINF:-1,																	Saryarqa 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2222/index.m3u8
+#EXTINF:0 tvg-rec="0",																Silk Way HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20044/index.m3u8
+#EXTINF:-1,																	Хабар HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2223/index.m3u8
+#EXTINF:0 tvg-rec="0",																Setanta Sports 1 HD KZ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16026/index.m3u8
+#EXTINF:0 tvg-rec="0",																Setanta Sports 2 HD KZ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16025/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/ozbekiston-1-uz.png",									O'zbekiston 1
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2236/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/ozbekiston-24-uz.png",									O'zbekiston 24 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2246/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/ozbekiston-24-uz.png",									O'zbekiston 24 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20199/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/ozbekiston-tarixi-uz.png",								O'zbekiston Tarixi HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20200/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/yoshlar-uz.png",									Yoshlar
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2237/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-uz.png",										Sport 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2239/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-uz.png",										Sport HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20203/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol-tv-uz.png",									Futbol TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20187/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunyo-boylab-uz.png",									Dunyo Bo'ylab
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2241/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunyo-boylab-uz.png",									Dunyo Bo'ylab HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20186/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bolajon-uz.png",									Bolajon 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2242/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/navo-uz.png",										Navo 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2243/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kinoteatr-uz.png",									Kinoteatr 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2244/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kinoteatr-uz.png",									Kinoteatr HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20190/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/madaniyat-va-marifat-uz.png",								Madaniyat va Ma'rifat
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20191/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahalla-uz.png",									Mahalla 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20192/index.m3u8
+#EXTINF:-1 tvg-logo="",																Aqlvoy TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20180/index.m3u8
+#EXTINF:-1 tvg-logo="",																Taraqqiyot TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20204/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zor-tv-uz.png",										Zo'r TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20205/index.m3u8
+#EXTINF:-1 tvg-logo="",																Toshkent 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20206/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/biz-cinema-uz.png",									Biz Cinema 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20181/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/biz-music-uz.png",									Biz Music HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20182/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dasturxon-tv-uz.png",									Dasturxon TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20185/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-5.png",										My5 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20193/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-5.png",										My5 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20196/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/milliy-tv-uz.png",									Milliy TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20194/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/milliy-tv-uz.png",									Milliy TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20195/index.m3u8
+#EXTINF:-1 tvg-logo="",																Nurafshon TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20198/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/renessans-tv-nz.png",									Renessans TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20201/index.m3u8
+#EXTINF:-1 tvg-logo="",																Ruxsor TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20202/index.m3u8
+#EXTINF:0 tvg-rec="3",																ATV Gagauzia
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2459/index.m3u8
+
+#EXTINF:............................................................................................RUSSIA............................................................
+#EXTINF:-1 tvg-logo="",																Первый канал HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/204/index.m3u8
+#EXTINF:-1 tvg-logo="",																Первый канал
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/127/index.m3u8
+#EXTINF:0 tvg-rec="7",																Музыка Первого
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/155/index.m3u8
+#EXTINF:-1 tvg-logo="",																Россия 1 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15133/index.m3u8
+#EXTINF:-1 tvg-logo="",																Россия 1
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/504/index.m3u8
+#EXTINF:-1 tvg-logo="",																Россия 24
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/507/index.m3u8
+#EXTINF:0 tvg-rec="7",																Россия К
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/505/index.m3u8
+#EXTINF:-1 tvg-logo="",																РТР Планета
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/18042/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru" ,														Карусель
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9186/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч ТВ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/535/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч ТВ HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/212/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Премьер
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/531/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Премьер HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/220/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Футбол 1
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/124/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Футбол 1 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/222/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Футбол 2
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/530/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Футбол 2 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/211/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Футбол 3
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/522/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Футбол 3 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/206/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Игра
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/529/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Игра HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/225/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Арена
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/528/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Арена HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/207/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Страна
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/107/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Планета
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/123/index.m3u8
+#EXTINF:-1 tvg-logo="",																Матч! Боец
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/150/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png",												НТВ HD
+https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-rec="3",																НТВ +2
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/713/index.m3u8
+#EXTINF:0 tvg-rec="0",																НТВ +4
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6024/index.m3u8
+#EXTINF:0 tvg-rec="0",																НТВ +7
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6039/index.m3u8
+#EXTINF:0 tvg-rec="0",																НТВ +8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6053/index.m3u8
+#EXTINF:-1 tvg-logo="",																НТВ Хит HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/741/index.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru" tvg-logo="https://i.imgur.com/3ChnWGg.png",									НТВ Право
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9327/index.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" ,									НТВ Сериал
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/744/index.m3u8
+#EXTINF:-1 tvg-logo="",																НТВ Мир
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14035/index.m3u8
+#EXTINF:-1 tvg-logo="",																2x2 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9139/index.m3u8
+#EXTINF:-1 tvg-logo="",																Суббота!
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/826/index.m3u8
+#EXTINF:-1 tvg-logo="",																Домашний
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/514/index.m3u8
+#EXTINF:-1 tvg-logo="",																Звезда Плюс
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10059/index.m3u8
+#EXTINF:-1 tvg-logo="",																ТВЦ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9095/index.m3u8
+#EXTINF:0 tvg-rec="0",																ТВЦ International
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15229/index.m3u8
+#EXTINF:0 tvg-rec="7",																Здоровое ТВ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2022/index.m3u8
+#EXTINF:0 tvg-rec="7",																Психология
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2025/index.m3u8
+#EXTINF:0 tvg-rec="7",																Успех
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2041/index.m3u8
+#EXTINF:-1 tvg-logo="",																ТНТ HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/237/index.m3u8
+#EXTINF:-1 tvg-logo="",																ТНТ Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
+#EXTINF:0 tvg-rec="3",																ТНТ4 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9208/index.m3u8
+#EXTINF:0 tvg-rec="0",																ТНТ International HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15230/index.m3u8
+#EXTINF:0 tvg-rec="7",																Europa Plus TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/115/index.m3u8
+#EXTINF:0 tvg-rec="3",																MCM Top Russia 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9175/index.m3u8
+#EXTINF:-1 tvg-logo="",																Мир HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15119/index.m3u8
+#EXTINF:0 tvg-rec="3",																Мир 24 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2107/index.m3u8
+#EXTINF:-1 tvg-logo="",																РБК HD
+http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="",																RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:-1 tvg-logo="",																RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="",																RT Documentary
+https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
+#EXTINF:-1 tvg-logo="",																RT Deutsch
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="",																RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="",																Звезда Плюс HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19230/index.m3u8
+#EXTINF:-1 tvg-logo="",																Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-logo="",																Че!
+https://vs6.cdn.mrf.tvime.ru/che/index.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-logo="https://i.imgur.com/xi351Fx.png" ,									Mult
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-logo="https://i.imgur.com/SYt6BZP.png" ,									Mult i muzyka
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 tvg-logo="",																8 канал
+http://185.91.179.12/8kanal/vintera/playlist.m3u8
+#EXTINF:-1 tvg-logo="",																8 Канал Новосибирск
+https://live-8knsk.cdnvideo.ru/8knsk/stream1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Leomax24.ru" tvg-logo="https://i.imgur.com/qU9ohQu.png" ,									Leomax 24 
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-logo="",																Shopping Live
+https://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="Volga.ru" tvg-logo="https://i.imgur.com/xHs1pr1.png" ,									Волга (HD)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd24.ru" tvg-logo="https://i.imgur.com/gFMnaU5.png" ,									Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="",																Нано ТВ
+https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Prima.ru" tvg-logo="https://i.imgur.com/33XGMch.png" ,									Прима 
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1 tvg-logo="",																Пятый канал
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/112/index.m3u8
+#EXTINF:-1 tvg-logo="",																Пятница! HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5031/index.m3u8
+#EXTINF:-1 tvg-logo="",																Пятница!
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/503/index.m3u8
+#EXTINF:-1 tvg-logo="",																ТНТ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/502/index.m3u8
+#EXTINF:-1 tvg-logo="",																СТС
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/506/index.m3u8
+#EXTINF:-1 tvg-logo="",																СТС Love
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/103/index.m3u8
+#EXTINF:0 tvg-rec="7",																СТС Kids HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2001/index.m3u8
+#EXTINF:-1 tvg-logo="",																РЕН ТВ HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2024/index.m3u8
+#EXTINF:-1 tvg-logo="",																РЕН ТВ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/128/index.m3u8
+#EXTINF:0 tvg-rec="7",																Gulli Girl
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/109/index.m3u8
+#EXTINF:-1 tvg-logo="",																ОТР
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/705/index.m3u8
+#EXTINF:-1 tvg-logo="",																Bridge TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/122/index.m3u8
+#EXTINF:-1 tvg-logo="",																Bridge Classic 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9259/index.m3u8
+#EXTINF:-1 tvg-logo="",																Bridge Шлягер
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10038/index.m3u8
+#EXTINF:-1 tvg-logo="",																Bridge Русский Хит
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9176/index.m3u8
+#EXTINF:-1 tvg-logo="",																Bridge Deluxe 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9012/index.m3u8
+#EXTINF:-1 tvg-logo="",																Bridge Rock
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/17043/index.m3u8
+#EXTINF:0 tvg-rec="3",																Mezzo Live HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9014/index.m3u8
+#EXTINF:0 tvg-rec="7",																Mezzo
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/707/index.m3u8
+#EXTINF:-1 tvg-logo="",																NRG 91 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7223/index.m3u8
+#EXTINF:-1 tvg-logo="",																Зоо ТВ
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2100/index.m3u8
+#EXTINF:0 tvg-rec="3",																Tiji TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9180/index.m3u8
+#EXTINF:-1 tvg-logo="",																ТВ-3 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5033/index.m3u8
+#EXTINF:-1 tvg-logo="",																ТВ-3
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/508/index.m3u8
+#EXTINF:-1 tvg-logo="",																Viju TV1000 Action HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6386/index.m3u8
+#EXTINF:-1 tvg-logo="",																Viju TV1000 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6387/index.m3u8
+#EXTINF:-1 tvg-logo="",																Viju TV1000 Русское HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6388/index.m3u8
+#EXTINF:-1 tvg-logo="",																Viju+ Serial HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9245/index.m3u8
+#EXTINF:-1 tvg-logo="",																Сапфир HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6389/index.m3u8
+#EXTINF:-1 tvg-logo="",																Мосфильм. Золотая коллекция
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6392/index.m3u8
+#EXTINF:0 tvg-rec="7",																Дом Кино
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/154/index.m3u8
+#EXTINF:-1 tvg-logo="",																Премиальное HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7222/index.m3u8
+#EXTINF:-1 tvg-logo="",																Киносемья HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7244/index.m3u8
+#EXTINF:-1 tvg-logo="",																Киносвидание HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7245/index.m3u8
+#EXTINF:-1 tvg-logo="",																Страшное HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7247/index.m3u8
+#EXTINF:-1 tvg-logo="",																Кинокомедия HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7248/index.m3u8
+#EXTINF:-1 tvg-logo="",																Киномикс HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7249/index.m3u8
+#EXTINF:-1 tvg-logo="",																Кинохит HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7250/index.m3u8
+#EXTINF:-1 tvg-logo="",																KinoJam 1 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7260/index.m3u8
+#EXTINF:-1 tvg-logo="",																KinoJam 2 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7261/index.m3u8
+#EXTINF:-1 tvg-logo="",																Мосфильм. Золотая коллекция HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7347/index.m3u8
+#EXTINF:-1 tvg-logo="",																Trash HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6396/index.m3u8
+#EXTINF:-1 tvg-logo="",																FX HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9018/index.m3u8
+#EXTINF:-1 tvg-logo="",																Иллюзион+ HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9079/index.m3u8
+#EXTINF:-1 tvg-logo="",																Русский иллюзион HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9080/index.m3u8
+#EXTINF:-1 tvg-logo="",																Наш Кинопоказ HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9086/index.m3u8
+#EXTINF:-1 tvg-logo="",																Русский роман HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9041/index.m3u8
+#EXTINF:-1 tvg-logo="",																Кинопремьера HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9020/index.m3u8
+#EXTINF:-1 tvg-logo="",																Amedia 1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9069/index.m3u8
+#EXTINF:-1 tvg-logo="",																Amedia 2
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9129/index.m3u8
+#EXTINF:-1 tvg-logo="",																Amedia Hit HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9070/index.m3u8
+#EXTINF:-1 tvg-logo="",																Amedia Premium HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9022/index.m3u8
+#EXTINF:-1 tvg-logo="",																Киноужас HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9033/index.m3u8
+#EXTINF:-1 tvg-logo="",																.red HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9035/index.m3u8
+#EXTINF:-1 tvg-logo="",																.sci-fi 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9125/index.m3u8
+#EXTINF:-1 tvg-logo="",																.black 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9140/index.m3u8
+#EXTINF:-1 tvg-logo="",																ТВ 21
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9130/index.m3u8
+#EXTINF:-1 tvg-logo="",																Русский бестселлер 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9141/index.m3u8
+#EXTINF:-1 tvg-logo="",																Русский детектив 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9142/index.m3u8
+#EXTINF:-1 tvg-logo="",																Любимое Кино 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9143/index.m3u8
+#EXTINF:-1 tvg-logo="",																Комедия 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9144/index.m3u8
+#EXTINF:-1 tvg-logo="",																FAN 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9145/index.m3u8
+#EXTINF:-1 tvg-logo="",																НСТ 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9148/index.m3u8
+#EXTINF:-1 tvg-logo="",																Индия 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9149/index.m3u8
+#EXTINF:-1 tvg-logo="",																Кинеко HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9135/index.m3u8
+#EXTINF:0 tvg-rec="3",																Победа HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5052/index.m3u8
+#EXTINF:-1 tvg-logo="",																Москва 24
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/523/index.m3u8
+#EXTINF:-1 tvg-logo="",																Мир 24
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/712/index.m3u8
+#EXTINF:-1 tvg-logo="",																Euronews Россия
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/828/index.m3u8
+#EXTINF:-1 tvg-logo="",																Известия
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2008/index.m3u8
+#EXTINF:-1 tvg-logo="",																Центральное телевидение
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2064/index.m3u8
+#EXTINF:-1 tvg-logo="",																360° Новости
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u
+#EXTINF:-1 tvg-logo="",																12 канал Омск 					https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:0 tvg-rec="7",																Драйв
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2021/index.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru",															ЛДПР ТВ 
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="",																Башкортостан 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1,																	БСТ (Уфа)
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1,																	Курай ТВ (Уфа)
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
+#EXTINF:-1,																	Салям (Уфа)
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1,																	Тамыр (Уфа)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
+#EXTINF:-1,																	ТНВ-Планета
+https://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,																	ТНВ Татарстан
+https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1,																	Татарстан 24
+https://tatarstan24.tv/stream/chunklist_w2010572658.m3u8
+#EXTINF:-1 tvg-id="OsetiyaIryston.ru",														Осетия Ирыстон
+https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
+#EXTINF:-1,																	Dagestan
+https://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/mono.m3u8
+#EXTINF:-1,																	Ingushetia
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
+
+#EXTINF:..............................................................................U.A.E...........................................................................
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",											QATAR TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png",											QATAR TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-qa.svg",								Aljazeera 
+https://live-hls-web-aja-fa.thehlive.com/AJA/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-qa.svg",								Aljazeera English
+https://live-hls-web-aje-fa.thehlive.com/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-mubasher-qa.png",								Aljazeera Mubasher
+https://live-hls-web-ajm-fa.thehlive.com/AJM/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-mubasher-qa.png",								Aljazeera Mubasher 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" ,									Al Araby TV 2
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" ,									Al Araby TV 
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HCZGRZk/bahraintv.png",											Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HCZGRZk/bahraintv.png",											Bahrain TV INT
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png",								Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-2-bh.png",								Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-the-holy-quran-bh.png",								BAHRAIN QURAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",											ABU DHABI
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yV6Jhjg/alemarat.png",											ABU DHABI AL EMARAT
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",											ABU DHABI SPORTS 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",											ABU DHABI SPORTS 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q6tZWdh/yas.png",												YAS TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/majid-tv-ae.svg",									Majid Channel
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baynounah-tv-ae.svg",									Baynounah
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+#EXTINF:0 tvg-rec="0",																National Geographic Abu Dhabi 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15200/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-logo="https://i.imgur.com/sEOjApe.png",								Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/GRQTndk.png" ,									Al Saudiya 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alarabiya-ae.png" ,						Al Arabiya News
+https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae",													Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" http-referrer="https://rotana.net/",									Rotana Cinema KSA 
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" http-referrer="https://rotana.net/",									Rotana Classic
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClip.sa@SD" http-referrer="https://rotana.net/",									Rotana Clip 
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa@SD" http-referrer="https://rotana.net/",									Rotana Comedy 
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa@SD" http-referrer="https://rotana.net/",									Rotana Drama 
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa@SD" http-referrer="https://rotana.net/",									Rotana Khalijia 
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa@SD" http-referrer="https://rotana.net/",									Rotana Music 
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="LBC.sa@SD" http-referrer="https://rotana.net/",										LBC 
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-sa.svg",								MBC  
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:0 tvg-rec="0",																MBC 2 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15198/index.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.us@SD",														MBC 3 USA 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" ,									MBC 4  
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15199/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae@SD",															MBC 5 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-drama-sa.svg",							MBC Drama
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15196/index.m3u8
+#EXTINF:0 tvg-rec="0",																Mbc Action 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15197/index.m3u8
+#EXTINF:0 tvg-rec="0",																Mbc Max 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15195/index.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae@SD",														MBC Bollywood 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asharq-news-sa.svg",									Asharq Bloomberg 					
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_720p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asharq-discovery-sa.png",								Asharq Discovery 								
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_720p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asharq-documentary-sa.png",								Asharq Documentary	
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_720p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/opBXx1K.png" ,									CNBC Arabiya 
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae",														Sky News Arabia
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae",														Spacetoon Arabic
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",											DUBAI TV
+https://dmieigthvllta.cdn.mangomolo.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",											DUBAI ONE
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jMsSmvg/dubainoor.png",											DUBAI NOOR
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4LTFCS/dubaisama.png",											DUBAI SAMA
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDs4dGV/dubaizaman.png",											DUBAI ZAMAN
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",											DUBAI SPORTS 1
+https://dmidspta.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",											DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",											DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",											DUBAI RACING 1
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",											DUBAI RACING 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",											DUBAI RACING 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png",											SHARJAH TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7KSJQYX/sharjah2.png",											SHARJAH TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bpYYZ2/shrspt.png",											SHARJAH TV SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae",													Sharqiya from Kalbaa TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",											OMAN TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman-tv-mubashir-om.png",								Oman TV Mubashir
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv_culture.png",									Oman TV Cultural
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv_sport.png",									Oman TV Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan-tv-jo.png",									Jordan TV HD
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo" tvg-logo="https://i.imgur.com/0XozB5N.png"  ,									Jordan Satellite Channel HD
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="JordanArchive.jo" tvg-logo="https://i.imgur.com/8UrCl4k.png",								Jordan Archive
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanComedy.jo" tvg-logo="https://i.imgur.com/DuwwoO2.png" ,								Jordan Comedy 
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanDrama.jo" tvg-logo="https://i.imgur.com/gvIAEsJ.png"  ,								Jordan Drama 
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanKitchen.jo" tvg-logo="https://i.imgur.com/B45qcQX.png"  ,								Jordan Kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanSongs.jo" tvg-logo="https://i.imgur.com/1DE7Gmw.png"  ,								Jordan Songs 
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanTourism.jo" tvg-logo="https://i.imgur.com/gpeIoU9.png" ,								Jordan Tourism 
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+
+
+
+#EXTINF:..............................................................................WORLD WIDE......................................................................
+#EXTINF:0 tvg-rec="3",																France 2 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6147/index.m3u8
+#EXTINF:0 tvg-rec="3",																France 3 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6148/index.m3u8
+#EXTINF:0 tvg-rec="3",																France 4 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6149/index.m3u8
+#EXTINF:0 tvg-rec="3",																France 5 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6150/index.m3u8
+#EXTINF:0 tvg-rec="0",																France Info HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6151/index.m3u8
+#EXTINF:0 tvg-rec="3",																Paris Premiere HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6146/index.m3u8
+#EXTINF:-1,																	CHERIE 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:0 tvg-rec="0",																Disney Channel HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15185/index.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.imgur.com/h53nsyJ.png" ,									RMC Story 
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="" ,												RMC Decouverte 
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:0 tvg-rec="0",																TF1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7262/index.m3u8
+#EXTINF:0 tvg-rec="0",																TF1 Series Films HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15187/index.m3u8
+#EXTINF:0 tvg-rec="0",																LCI FR
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15188/index.m3u8
+#EXTINF:0 tvg-rec="0",																Science & Vie HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15192/index.m3u8
+#EXTINF:0 tvg-rec="0",																Toute L'Histoire HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/17040/index.m3u8
+#EXTINF:0 tvg-rec="0",																Histoire TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/17041/index.m3u8
+
+#EXTINF:0 tvg-rec="0",																Rai 1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19081/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai 2 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19082/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai 3 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19083/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai 4 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19084/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai 5 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19085/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai Movie HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19086/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai Premium 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19087/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai Storia 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19088/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai Scuola HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19090/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai Gulp HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19092/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai Italia 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19093/index.m3u8
+#EXTINF:0 tvg-rec="0",																Rai News 24 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19094/index.m3u8
+#EXTINF:0 tvg-rec="0",																UniNettuno University TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19089/index.m3u8
+
+#EXTINF:-1,																	Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
