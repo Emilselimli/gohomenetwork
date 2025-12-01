@@ -1,75 +1,72 @@
 ﻿#EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml"
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/az-tv-az.png",									AzTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/az-tv-az.png",									                        AzTV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/966/index.m3u8
 #EXTINF:-1 tvg-id="MedeniyyetTV.az"  tvg-logo="https://www.lyngsat.com/logo/tv/mm/medeniyyet-tv-az.png",				Medeniyyet TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2197/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/idman-tv-az.png",								Idman TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/idman-tv-az.png",								                        Idman TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2198/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/ictimai-tv-az.png",								Ictimai TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/ictimai-tv-az.png",							                      	Ictimai TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2195/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azad_tv_az.png",								ATV AZ
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azad_tv_az.png",								                        ATV AZ
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16045/index.m3u8
-#EXTINF:-1 tvg-logo="",															ATV Cinema 
+#EXTINF:-1 tvg-logo="",															                                                            ATV Cinema 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2120/index.m3u8
-#EXTINF:-1 tvg-logo="",															ATV Vivace 
+#EXTINF:-1 tvg-logo="",														                                                            	ATV Vivace 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16068/index.m3u8
-#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" ,									ARB
+#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" ,									                        ARB
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2187/index.m3u8
-#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" 								ARB 24
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png"  ,															      	ARB 24
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2188/index.m3u8
-#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" ,								ARB Gunesh
+#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" ,							                    	ARB Gunesh
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2189/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43h3krLh/images-1.jpg", 									Kepez TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43h3krLh/images-1.jpg", 									                            Kepez TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/eltv_logo.png",										ELTV
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/eltv_logo.png",									                                  	ELTV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png",								Dunya TV 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png",							                        	Dunya TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2192/index.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/xazar.png",											Xazar TV
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/xazar.png",											                                    Xazar TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2199/index.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/mtv.png",											MTV Azerbaycan
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/mtv.png",											                                      MTV Azerbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2191/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/space-tv-az.png",								Space TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/space-tv-az.png",							                      	  Space TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2190/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc_sport_az.png",								CBC Sport HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc_sport_az.png",							                      	CBC Sport HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2193/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-az.png",									CBC TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-az.png",									                          CBC TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1050/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baku-tv-az.svg",								BAKU TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baku-tv-az.svg",							                        	BAKU TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16047/index.m3u8
-#EXTINF:0 tvg-rec="0",															VIP TV Azerbaycan
+#EXTINF:0 tvg-rec="0",															                                                            VIP TV Azerbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16052/index.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/apatv.png",											APA TV
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/apatv.png",										                                    	APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
-
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/real.svg",											REAL TV
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/real.svg",											                                      REAL TV
 https://str.yodacdn.net/real/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/logos/qafqaz.svg",									Qafqaz TV  (!not 24/7)
+#EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/logos/qafqaz.svg",								                        	Qafqaz TV  (!not 24/7)
 https://str.yodacdn.net/qafkaz/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/start.png",											KANAL S
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/start.png",											                                    KANAL S
 https://str.yodacdn.net/start/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jNtrJCK/download.png",  									STV (Sehiyye TV)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jNtrJCK/download.png",  								                            	STV (Sehiyye TV)
 https://str.yodacdn.net/shtv/mono.m3u8
-#EXTINF:-1,																TMB Azerbaycan 
+#EXTINF:-1,																                                                                      TMB Azerbaycan 
 https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
-#EXTINF:-1,																TMB TV
+#EXTINF:-1,																                                                                      TMB TV
 https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/biznestv.png", 										Biznes TV
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/biznestv.png", 									                                  	Biznes TV
 https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/kanal35.png",										KANAL 35  (!not 24/7)			
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/kanal35.png",										                                    KANAL 35  (!not 24/7)			
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/ntv.png",											NTV Naxchivan
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/ntv.png",											                                      NTV Naxchivan
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="", 														KTV (!not 24/7)
+#EXTINF:-1 tvg-logo="", 														                                                            KTV (!not 24/7)
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1 tvg-logo="", 														Alvin Channel
+#EXTINF:-1 tvg-logo="", 													                                                            	Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u
-#EXTINF:-1 tvg-logo="",															Show Plus
+#EXTINF:-1 tvg-logo="",														                                                            	Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
-
-#EXTINF:-1 tvg-logo="",															LIVE TV
+#EXTINF:-1 tvg-logo="",															                                                            LIVE TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 
 #EXTINF:..............................................................................................................................................................
@@ -1127,4 +1124,5 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19089/index.m3u8
 
 #EXTINF:-1,																	Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 
