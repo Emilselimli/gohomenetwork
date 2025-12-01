@@ -1,5 +1,5 @@
 # gohomenetwork
-Home Television Service -  538 Channels (Freeware)
+Home Television Service -  Azərbaycan və Dünyanın kanalları sizin xidmətinizdədir  
 
 GO HOME NETWORK 
 İPTV izləmək üçün internet sürətiniz neçə mbps olmalıdır?
