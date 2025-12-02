@@ -961,8 +961,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9143/index.m3u8
 #EXTINF:-1 tvg-logo="",																Комедия 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9144/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:0 tvg-rec="3",                                Волга (Нижний Новгород)
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9340/index.m3u8
+#EXTINF:0 tvg-rec="3",                                Волга HD (Нижний Новгород)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19354/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Волга 24 HD (Нижний Новгород)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19353/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1330,6 +1330,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
