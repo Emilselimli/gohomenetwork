@@ -74,7 +74,7 @@ https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg",  KANAL D
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2304/index.m3u8
-#EXTINF:-1 tvg-name="FOX TV" tvg-id="Fox.tr"   	tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-turkiye-us-tr.svg", 				            NOW TV
+#EXTINF:-1 tvg-name="FOX TV" tvg-id="Fox.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-turkiye-us-tr.svg", 				            NOW TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2309/index.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" 	tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png", 				                  	teve 2
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2306/index.m3u8
@@ -745,13 +745,17 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9125/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              .black 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9140/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              ТНТ Music
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9178/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                              Жара
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9177/index.m3u8
 #EXTINF:0 tvg-rec="7",														                                                  Europa Plus TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/115/index.m3u8
 #EXTINF:0 tvg-rec="3",																                                              MCM Top Russia 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9175/index.m3u8
 #EXTINF:-1 tvg-logo="",						                                                                  RU TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/838/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              Music Box Russia
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2048/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              Bridge TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/122/index.m3u8
 #EXTINF:-1 tvg-logo="",															                                               	Bridge Classic 
@@ -1263,6 +1267,16 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6060/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Nitro DE
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6064/index.m3u8
 
+#EXTINF:0 tvg-rec="0",                                                                                              SVT1 HD SE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7350/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              SVT2 HD SE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7351/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Kanal 11 HD SE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7357/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV12 HD SE
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7353/index.m3u8
+
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
