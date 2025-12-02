@@ -802,15 +802,15 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/519/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2102/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                              О!Кино
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20023/index.m3u8
-#EXTINF:0 tvg-rec="7",                                                                                                                        О!
+#EXTINF:0 tvg-rec="7",                                                                              О!
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/727/index.m3u8
-#EXTINF:0 tvg-rec="7",																                                                                                        Gulli Girl
+#EXTINF:0 tvg-rec="7",																                                              Gulli Girl
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/109/index.m3u8
-#EXTINF:0 tvg-rec="3",																                                                                                        Tiji TV
+#EXTINF:0 tvg-rec="3",																                                              Tiji TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9180/index.m3u8
-#EXTINF:0 tvg-rec="7",                                                                                                                        Ani
+#EXTINF:0 tvg-rec="7",                                                                              Ani
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/129/index.m3u8
-#EXTINF:0 tvg-rec="7",                                                                                                                        Cartoonito
+#EXTINF:0 tvg-rec="7",                                                                              Cartoonito
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/723/index.m3u8
 #EXTINF:0 tvg-rec="7",                                                                                                                        Мульт
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/909/index.m3u8
@@ -969,17 +969,19 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19353/index.m3u8
 #EXTINF:-1 tvg-id="",								                  Башкортостан 24  (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/832/index.m3u8
 #EXTINF:-1,																	          БСТ (Уфа)
-https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2115/index.m3u8
 #EXTINF:-1,																	          Курай ТВ (Уфа)
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9255/index.m3u8
 #EXTINF:-1,																	          Салям (Уфа)
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+https://bstdist.mediacdn.ru/cdn/salyamhd/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1,																	          Тамыр (Уфа)
-https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2109/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Первый канал +2 (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15301/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Россия 1 +2 (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15302/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Россия 24 +2 (Уфа)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15312/index.m3u8
 #EXTINF:0 tvg-rec="0",                                ТВ-3 +2 (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15319/index.m3u8
 #EXTINF:0 tvg-rec="0",                                ТВЦ +2 (Уфа)
@@ -1328,6 +1330,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
