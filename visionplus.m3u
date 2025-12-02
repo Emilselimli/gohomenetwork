@@ -72,7 +72,7 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 https://tv.mobyservice.ru/livetv/index.m3u8
 
 #EXTINF:..............................................................................................................................................................
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg", 					                KANAL D
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg",  KANAL D
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2304/index.m3u8
 #EXTINF:-1 tvg-name="FOX TV" tvg-id="Fox.tr"   	tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-turkiye-us-tr.svg", 				            NOW TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2309/index.m3u8
@@ -596,149 +596,159 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20202/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2459/index.m3u8
 
 #EXTINF:............................................................................................RUSSIA............................................................
-#EXTINF:-1 tvg-logo="",															                                                                                        	Первый канал HD
+#EXTINF:-1 tvg-logo="",															                                                Первый канал HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/204/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Первый канал
+#EXTINF:-1 tvg-logo="",																                                              Первый канал
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/127/index.m3u8
-#EXTINF:0 tvg-rec="7",																                                                                                        Музыка Первого
+#EXTINF:0 tvg-rec="7",																                                              Музыка Первого
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/155/index.m3u8
-#EXTINF:0 tvg-rec="7",																                                                                                        Дом Кино
+#EXTINF:0 tvg-rec="7",																                                              Дом Кино
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/154/index.m3u8
-#EXTINF:0 tvg-rec="7",                                                                                                                        Дом Кино Премиум HD
+#EXTINF:0 tvg-rec="7",                                                                              Дом Кино Премиум HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/911/index.m3u8
-#EXTINF:0 tvg-rec="7",                                                                                                                        Телекафе
+#EXTINF:0 tvg-rec="7",                                                                              Top Secret
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/121/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              Телекафе
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/865/index.m3u8
-#EXTINF:0 tvg-rec="7",                                                                                                                        Время
+#EXTINF:0 tvg-rec="7",                                                                              Время
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/552/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Россия 1 HD
+#EXTINF:-1 tvg-logo="",												                                                      Россия 1 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15133/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Россия 1
+#EXTINF:-1 tvg-logo="",																                                              Россия 1
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/504/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                         	Россия 24
+#EXTINF:-1 tvg-logo="",															                                               	Россия 24
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/507/index.m3u8
-#EXTINF:0 tvg-rec="7",															                                                                                        	Россия К
+#EXTINF:0 tvg-rec="7",										                                                        	Россия К
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/505/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        РТР Планета
+#EXTINF:-1 tvg-logo="",																                                              РТР Планета
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/18042/index.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru" ,														                                                                                  Карусель
+#EXTINF:-1 tvg-id="Carousel.ru" ,													                                          Карусель
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9186/index.m3u8
-#EXTINF:0 tvg-rec="7",																                                                                                        Здоровое ТВ
+#EXTINF:0 tvg-rec="7",													                                                    Здоровое ТВ
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2022/index.m3u8
-#EXTINF:0 tvg-rec="7",																                                                                                        Психология
+#EXTINF:0 tvg-rec="7",                                                                              Доктор
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/512/index.m3u8
+#EXTINF:0 tvg-rec="7",																                                              Психология
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2025/index.m3u8
-#EXTINF:0 tvg-rec="7",																                                                                                        Успех
+#EXTINF:0 tvg-rec="7",																                                              Успех
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2041/index.m3u8
-#EXTINF:0 tvg-rec="7",                                                                                                                        Усадьба
+#EXTINF:0 tvg-rec="7",                                                                              Усадьба
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/532/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч ТВ
+#EXTINF:0 tvg-rec="7",                                                                              Fashion TV HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2045/index.m3u8
+#EXTINF:-1 tvg-logo="",																                                              Матч ТВ
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/535/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч ТВ HD
+#EXTINF:-1 tvg-logo="",																                                              Матч ТВ HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/212/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png",											                                                                	НТВ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png",	                                          	НТВ HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9203/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        НТВ Хит HD
+#EXTINF:-1 tvg-logo="",																                                              НТВ Хит HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/741/index.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru" tvg-logo="https://i.imgur.com/3ChnWGg.png",									                                                    НТВ Право
+#EXTINF:-1 tvg-id="NTVLaw.ru" tvg-logo="https://i.imgur.com/3ChnWGg.png",                           НТВ Право
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9327/index.m3u8
-#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" ,								                                                	НТВ Сериал
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" ,	                      НТВ Сериал
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/744/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                         	НТВ Мир
+#EXTINF:-1 tvg-logo="",											                                                      	НТВ Мир
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14035/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Премьер
+#EXTINF:0 tvg-rec="0",                                                                              НТВ Беларусь 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19371/index.m3u8
+#EXTINF:-1 tvg-logo="",													                                                    Матч! Премьер
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/531/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Премьер HD
+#EXTINF:-1 tvg-logo="",																                                              Матч! Премьер HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/220/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Страна
+#EXTINF:-1 tvg-logo="",																                                              Матч! Страна
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/107/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                        	Матч! Планета
+#EXTINF:-1 tvg-logo="",															                                               	Матч! Планета
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/123/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Боец
+#EXTINF:-1 tvg-logo="",																                                              Матч! Боец
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/150/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                        	Пятница! HD
+#EXTINF:-1 tvg-logo="",															                                               	Пятница! HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5031/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Суббота!
+#EXTINF:-1 tvg-logo="",								                                                              Суббота!
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/826/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Домашний
+#EXTINF:0 tvg-rec="7",                                                                              Москва доверие
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/869/index.m3u8
+#EXTINF:-1 tvg-logo="",															                                                Домашний
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/514/index.m3u8
-#EXTINF:0 tvg-rec="3",																                                                                                        НТВ +2
+#EXTINF:0 tvg-rec="3",										                                                          НТВ +2
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/713/index.m3u8
-#EXTINF:0 tvg-rec="0",															                                                                                         	НТВ +4
+#EXTINF:0 tvg-rec="0",											                                                       	НТВ +4
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6024/index.m3u8
-#EXTINF:0 tvg-rec="0",															                                                                                         	НТВ +7
+#EXTINF:0 tvg-rec="0",															                                              	НТВ +7
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6039/index.m3u8
-#EXTINF:0 tvg-rec="0",																                                                                                        НТВ +8
+#EXTINF:0 tvg-rec="0",													                                                    НТВ +8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6053/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        2x2 
+#EXTINF:-1 tvg-logo="",																                                              2x2 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9139/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                                                        Моя Планета
+#EXTINF:0 tvg-rec="3",                                                                              Моя Планета
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9300/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Русский роман HD 
+#EXTINF:-1 tvg-logo="",														                                                  Русский роман HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9041/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                        	Русский бестселлер 
+#EXTINF:-1 tvg-logo="",														                                                	Русский бестселлер 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9141/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Русский детектив 
+#EXTINF:-1 tvg-logo="",										                                                          Русский детектив 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9142/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Мир HD
+#EXTINF:-1 tvg-logo="",																                                              Мир HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15119/index.m3u8
-#EXTINF:0 tvg-rec="3",																                                                                                        Мир 24 HD
+#EXTINF:0 tvg-rec="3",																                                              Мир 24 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2107/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                        	РБК HD
+#EXTINF:-1 tvg-logo="",															                                               	РБК HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/106/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                                                        Звезда
+#EXTINF:0 tvg-rec="3",                                                                              Звезда
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9098/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Звезда Плюс
+#EXTINF:-1 tvg-logo="",																                                              Звезда Плюс
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10059/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                        	ТВЦ
+#EXTINF:-1 tvg-logo="",															                                               	ТВЦ
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9095/index.m3u8
-#EXTINF:0 tvg-rec="0",																                                                                                        ТВЦ International
+#EXTINF:0 tvg-rec="0",															                                                ТВЦ International
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15229/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Футбол 1
+#EXTINF:-1 tvg-logo="",														                                                  Матч! Футбол 1
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/124/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Футбол 1 HD
+#EXTINF:-1 tvg-logo="",												                                                      Матч! Футбол 1 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/222/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Футбол 2
+#EXTINF:-1 tvg-logo="",																                                              Матч! Футбол 2
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/530/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Футбол 2 HD
+#EXTINF:-1 tvg-logo="",																                                              Матч! Футбол 2 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/211/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Футбол 3
+#EXTINF:-1 tvg-logo="",																                                              Матч! Футбол 3
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/522/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Футбол 3 HD
+#EXTINF:-1 tvg-logo="",																                                              Матч! Футбол 3 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/206/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                                                        Ностальгия
+#EXTINF:0 tvg-rec="3",                                                                              Ностальгия
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9106/index.m3u8
-#EXTINF:0 tvg-rec="7",                                                                                                                        RTG HD
+#EXTINF:0 tvg-rec="7",                                                                              RTG HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/210/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                                                        Ю ТВ 
+#EXTINF:0 tvg-rec="3",                                                                              Ю ТВ 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9107/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                                                        ОТР 
+#EXTINF:0 tvg-rec="3",                                                                              ОТР 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9100/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                                                        Че! 
+#EXTINF:0 tvg-rec="3",                                                                              Че! 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9101/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        ТНТ HD
+#EXTINF:-1 tvg-logo="",												                                                      ТНТ HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/237/index.m3u8
-#EXTINF:0 tvg-rec="3",																                                                                                        ТНТ4 
+#EXTINF:0 tvg-rec="3",								                                                              ТНТ4 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9208/index.m3u8
-#EXTINF:0 tvg-rec="0",															                                                                                        	ТНТ International HD
+#EXTINF:0 tvg-rec="0",														                                                 	ТНТ International HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15230/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Игра
+#EXTINF:-1 tvg-logo="",													                                                    Матч! Игра
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/529/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Игра HD
+#EXTINF:-1 tvg-logo="",							                                                                Матч! Игра HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/225/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                        	Матч! Арена
+#EXTINF:-1 tvg-logo="",						                                                                 	Матч! Арена
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/528/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Матч! Арена HD
+#EXTINF:-1 tvg-logo="",																                                              Матч! Арена HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/207/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        ТНТ Music
+#EXTINF:-1 tvg-logo="",																                                              ТНТ Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
-#EXTINF:0 tvg-rec="7",																                                                                                        Europa Plus TV
+#EXTINF:0 tvg-rec="7",														                                                  Europa Plus TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/115/index.m3u8
-#EXTINF:0 tvg-rec="3",																                                                                                        MCM Top Russia 
+#EXTINF:0 tvg-rec="3",																                                              MCM Top Russia 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9175/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        RU TV
-https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Bridge TV
+#EXTINF:-1 tvg-logo="",						                                                                  RU TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/838/index.m3u8
+#EXTINF:-1 tvg-logo="",																                                              Bridge TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/122/index.m3u8
-#EXTINF:-1 tvg-logo="",															                                                                                        	Bridge Classic 
+#EXTINF:-1 tvg-logo="",															                                               	Bridge Classic 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9259/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                                                                        Bridge Шлягер
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10038/index.m3u8
@@ -948,8 +958,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5052/index.m3u8
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="LDPRTV.ru",												ЛДПР ТВ 
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="",																                                                                                        Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-id="",								                  Башкортостан 24
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/832/index.m3u8
 #EXTINF:-1,																	БСТ (Уфа)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1,																	Курай ТВ (Уфа)
@@ -968,8 +978,8 @@ https://tatarstan24.tv/stream/chunklist_w2010572658.m3u8
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1,																	Dagestan
 https://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/mono.m3u8
-#EXTINF:-1,																	Ingushetia
-https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-rec="7",                                        Грозный
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/855/index.m3u8
 
 #EXTINF:..............................................................................U.A.E...........................................................................
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",											QATAR TV
@@ -1192,7 +1202,16 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19094/index.m3u8
 #EXTINF:0 tvg-rec="0",																UniNettuno University TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19089/index.m3u8
 
-#EXTINF:0 tvg-rec="0",                                                                                              ORF 1 HD 
+#EXTINF:0 tvg-rec="0",                                La 1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31826/index.m3u8
+#EXTINF:0 tvg-rec="0",                                La 2 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31829/index.m3u8
+#EXTINF:0 tvg-rec="0",                                TVE Internacional
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31824/index.m3u8
+#EXTINF:-1,																	          Real Madrid TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15248/index.m3u8
+
+#EXTINF:0 tvg-rec="0",                                ORF 1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15177/index.m3u8
 
 #EXTINF:0 tvg-rec="0",                                                                                              Das Erste HD 
@@ -1242,11 +1261,11 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6060/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Nitro DE
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6064/index.m3u8
 
-#EXTINF:-1,																	                                                                        Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
