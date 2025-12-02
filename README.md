@@ -1,8 +1,6 @@
-############
 
 #HAQQIMIZDA#
 
-############
 
 Home Television Service -  Azərbaycan və Dünyanın kanalları sizin xidmətinizdədir  
 
