@@ -1264,19 +1264,40 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15178/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7230/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Sat.1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6060/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                              Nitro DE
+#EXTINF:0 tvg-rec="3",                                                                                              Nitro 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6064/index.m3u8
 
-#EXTINF:0 tvg-rec="0",                                                                                              SVT1 HD SE
+#EXTINF:0 tvg-rec="0",                                                                                              SVT1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7350/index.m3u8
-#EXTINF:0 tvg-rec="0",                                                                                              SVT2 HD SE
+#EXTINF:0 tvg-rec="0",                                                                                              SVT2 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7351/index.m3u8
-#EXTINF:0 tvg-rec="0",                                                                                              Kanal 11 HD SE
+#EXTINF:0 tvg-rec="0",                                                                                              SVT Barn/STV24 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12064/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Kanal 11 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7357/index.m3u8
-#EXTINF:0 tvg-rec="0",                                                                                              TV12 HD SE
+#EXTINF:0 tvg-rec="0",                                                                                              TV3 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12066/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV4 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12071/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV4 Guld HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12067/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV4 Film HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12069/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV4 Fakta
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12070/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV4 Stars HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12042/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV6 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12068/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV12 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7353/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Kanal 5 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12052/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Kanal 9 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
