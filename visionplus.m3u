@@ -160,7 +160,6 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2286/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6897/index.m3u8
 #EXTINF: ilooktv  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png", 									TV 8.5 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6898/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/power_tr_tv.png", 									Power TV 
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/power_turk_tr_tv.png", 									Power Turk 
@@ -284,7 +283,6 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19064/index.m3u8
 #EXTINF:-1 tvg-name="FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" ,						FASHION ONE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-
 #EXTINF:-1,																	Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1,																	Super Turk
@@ -1199,6 +1197,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19093/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19094/index.m3u8
 #EXTINF:0 tvg-rec="0",																UniNettuno University TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19089/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Kiss Kiss HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16072/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Kiss Kiss Italia HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16073/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Zerouno TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16076/index.m3u8
 
 #EXTINF:0 tvg-rec="0",                                La 1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31826/index.m3u8
@@ -1261,3 +1265,4 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6064/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
