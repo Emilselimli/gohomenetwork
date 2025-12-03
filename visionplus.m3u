@@ -1287,8 +1287,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31824/index.m3u8
 #EXTINF:-1,																	          Real Madrid TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15248/index.m3u8
 
-#EXTINF:0 tvg-rec="0",                                ORF 1 HD 
+#EXTINF:0 tvg-rec="0",                                ORF I HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15177/index.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at@HD" ,                    ORF III HD (720p)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="ORFKids.at@SD" ,                   ORF Kids (720p)
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.m3u8
 
 #EXTINF:0 tvg-rec="0",                                                                                              Das Erste HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15172/index.m3u8
@@ -1368,6 +1372,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
