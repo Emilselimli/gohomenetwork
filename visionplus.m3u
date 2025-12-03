@@ -1104,6 +1104,33 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae",														                                    Spacetoon Arabic
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaAflamPlus.sa@SD" tvg-logo="https://i.imgur.com/DLDfFpu.png" ,                Rotana Aflam+ (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" tvg-logo="https://i.imgur.com/dGlKoLW.png" ,              Rotana Cinema Egypt (1080p)
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" tvg-logo="https://i.imgur.com/pGgp38I.png" ,                Rotana Cinema KSA (1080p)
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" ,                  Rotana Classic (1080p)
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClip.sa@SD" tvg-logo="https://i.imgur.com/nhREk0o.png" ,                     Rotana Clip (1080p) 
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa@SD" tvg-logo="https://i.imgur.com/IlT8U6S.png",                    Rotana Comedy (1080p)
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa@SD" tvg-logo="https://i.imgur.com/btnhPjZ.png" ,                    Rotana Drama 
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa@SD" tvg-logo="https://i.imgur.com/6HMluzv.png" ,                 Rotana Khalijia
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa@SD" tvg-logo="https://i.imgur.com/2zFQbQi.png"  ,                   Rotana Music 
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:..................................................................................................................................
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",											                      DUBAI TV
 https://dmieigthvllta.cdn.mangomolo.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
@@ -1324,6 +1351,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
