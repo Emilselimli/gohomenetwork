@@ -1142,15 +1142,17 @@ https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",											                  DUBAI RACING 3
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
 #EXTINF:..................................................................................................................................
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png",											                    SHARJAH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png",											                    Sharjah TV 
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7KSJQYX/sharjah2.png",											                    SHARJAH TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7KSJQYX/sharjah2.png",											                    Sharjah TV 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bpYYZ2/shrspt.png",											                      SHARJAH TV SPORTS
+#EXTINF:-1 tvg-logo="",		                                                                            Sharjah TV Quran									                   
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_360p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bpYYZ2/shrspt.png",											                      Sharjah TV Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae",													                                  Sharqiya from Kalbaa TV
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="",			                                                                            Alwousta TV									                                  
+#EXTINF:-1 tvg-logo="",		                                                                            Alwousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustapublish/alwoustatv_360p/chunks.m3u8
 #EXTINF:..................................................................................................................................
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",											                        OMAN TV
@@ -1336,6 +1338,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
