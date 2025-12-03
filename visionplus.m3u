@@ -1031,11 +1031,12 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-mubasher-qa.png",								    Aljazeera Mubasher
 https://live-hls-web-ajm-fa.thehlive.com/AJM/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-mubasher-qa.png",							    	Aljazeera Mubasher 2
-https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" ,									      Al Araby TV 2
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" ,									        Al Araby TV 
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:..................................................................................................................................
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HCZGRZk/bahraintv.png",										                  	  Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HCZGRZk/bahraintv.png",											                    Bahrain TV int.
@@ -1123,9 +1124,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058
 https://dmieigthvllta.cdn.mangomolo.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",											                    DUBAI ONE
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jMsSmvg/dubainoor.png",											                    DUBAI NOOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jMsSmvg/dubainoor.png",											                    NOOR DUBAI
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g4LTFCS/dubaisama.png",											                    DUBAI SAMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4LTFCS/dubaisama.png",											                    SAMA DUBAI 
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDs4dGV/dubaizaman.png",											                  DUBAI ZAMAN
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/index.m3u8
@@ -1338,6 +1339,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
