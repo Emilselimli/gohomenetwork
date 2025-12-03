@@ -1210,7 +1210,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19081/index.m3u8
 #EXTINF:0 tvg-rec="0",																Rai 2 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19082/index.m3u8
 #EXTINF:0 tvg-rec="0",																Rai 3 HD 
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19083/index.m3u8
+https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:0 tvg-rec="0",																Rai 4 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19084/index.m3u8
 #EXTINF:0 tvg-rec="0",																Rai 5 
@@ -1237,6 +1237,14 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16072/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16073/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Zerouno TV HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16076/index.m3u8
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it",                Radio Freccia TV (1080p)
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RadioMonteCarloTV.it",             Radio Montecarlo (576p)
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="RadioRadioTV.it",                  Radio Radio TV (720p)
+https://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
+#EXTINF:-1 tvg-id="RadioZetaTV.it",                   Radio Zeta TV (1080p)
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
 #EXTINF:0 tvg-rec="0",                                La 1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31826/index.m3u8
@@ -1328,5 +1336,6 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
