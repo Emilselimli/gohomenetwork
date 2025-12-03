@@ -1074,26 +1074,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8
 https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaBusiness.ae",													                                    Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" http-referrer="https://rotana.net/",								      	Rotana Cinema KSA 
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" http-referrer="https://rotana.net/",								      	Rotana Cinema Masr
-https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" http-referrer="https://rotana.net/",									        Rotana Classic
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/rotana/classical_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="RotanaClip.sa@SD" http-referrer="https://rotana.net/",									            Rotana Clip 
-https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/rotana/clip_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="RotanaComedy.sa@SD" http-referrer="https://rotana.net/",									          Rotana Comedy 
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="RotanaDrama.sa@SD" http-referrer="https://rotana.net/",									          Rotana Drama 
-https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/rotana/drama_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa@SD" http-referrer="https://rotana.net/",									        Rotana Khalijia 
-https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/rotana/khaleejiya_480p/chunks.m3u8   
-#EXTINF:-1 tvg-id="RotanaMusic.sa@SD" http-referrer="https://rotana.net/",									          Rotana Music 
-https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/rotana/music_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" http-referrer="https://rotana.net/",		                  							          Rotana Risala
-https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/rotana/risala_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="LBC.sa@SD" http-referrer="https://rotana.net/",										                LBC 
-https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/rotana/lbc_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-sa.svg",								  MBC  
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:0 tvg-rec="0",																                                                MBC 2 
@@ -1344,6 +1324,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
