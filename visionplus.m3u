@@ -1061,8 +1061,6 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15424/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15418/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Афонтово (Красноярск)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15423/index.m3u8
-#EXTINF:0 tvg-rec="0",                                Центр (Красноярск)
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15425/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Прима HD (Красноярск)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19361/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1475,6 +1473,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
