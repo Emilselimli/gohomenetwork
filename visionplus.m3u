@@ -977,6 +977,11 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9143/index.m3u8
 #EXTINF:-1 tvg-logo="",																Комедия 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9144/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-rec="7",                                Санкт-Петербург
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/715/index.m3u8
+#EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-rec="0",                                ННТВ HD (Нижний Новгород)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19343/index.m3u8
 #EXTINF:0 tvg-rec="3",                                Волга HD (Нижний Новгород)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19354/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Волга 24 HD (Нижний Новгород)
@@ -988,10 +993,16 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/832/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2115/index.m3u8
 #EXTINF:-1,																	          Курай ТВ (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9255/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Матур ТВ HD (Башкортостан)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15352/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Арис 24 HD (Башкортостан)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20134/index.m3u8
 #EXTINF:-1,																	          Салям (Уфа)
 https://bstdist.mediacdn.ru/cdn/salyamhd/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1,																	          Тамыр (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2109/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Вся Уфа
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15300/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Первый канал +2 (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15301/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Россия 1 +2 (Уфа)
@@ -1019,6 +1030,18 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15308/index.m3u8
 #EXTINF:0 tvg-rec="0",                                РЕН ТВ +2 (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15309/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-rec="0",                                Якутия 24
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20015/index.m3u8
+#EXTINF:0 tvg-rec="0",                                НВК Саха HD (Якутия)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20125/index.m3u8
+#EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-rec="0",                                Обком ТВ (Омск)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19340/index.m3u8
+#EXTINF:0 tvg-rec="0",                                12 канал (Омск)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15444/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Первый городской (Омск)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15463/index.m3u8
+#EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1,																	          ТНВ-Планета
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/515/index.m3u8
 #EXTINF:-1,																	          ТНВ Татарстан
@@ -1034,6 +1057,14 @@ https://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/mono.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 tvg-rec="7",                                Грозный
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/855/index.m3u8
+#EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-rec="3",                                Первый Крымский
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2139/index.m3u8
+#EXTINF:0 tvg-rec="3",                                Крым 24
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2143/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Миллет HD (Крым)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19258/index.m3u8
+
 
 #EXTINF:..............................................................................U.A.E...........................................................................
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",										                        	QATAR TV
@@ -1418,6 +1449,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
