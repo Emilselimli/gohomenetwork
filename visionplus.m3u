@@ -70,7 +70,6 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="",															                                                            LIVE TV
 https://tv.mobyservice.ru/livetv/index.m3u8
-
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg",      KANAL D
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2304/index.m3u8
@@ -397,26 +396,27 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15256/index.m3u8
 https://live.euromediacenter.com/kanal34/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png",									                      TYT TURK
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" ",														                                                            Slow Karadeniz TV
+#EXTINF:..............................................................................................................................................................
+#EXTINF:-1 tvg-logo=" ",														                                                                        Slow Karadeniz TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
-#EXTINF:-1,                                                                                                     ARTI TV
+#EXTINF:-1,                                                                                                                 ARTI TV
 http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
 #EXTINF:..............................................................................................................................................................
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diyanet-tv-tr.png",									                    Diyanet TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diyanet-tv-tr.png",									                                Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mt_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-diyanet-cocuk-tr.svg",								              TRT Diyanet Çocuk
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-diyanet-cocuk-tr.svg",								                          TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="Lalegül TV" tvg-logo="https://i.ibb.co/HXMLHcS/lalegul.jpg",			                            Lalegül TV
+#EXTINF:-1 tvg-id="Lalegül TV" tvg-logo="https://i.ibb.co/HXMLHcS/lalegul.jpg",			                                        Lalegül TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6790/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vav-tv-tr.svg",										                      VAV TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vav-tv-tr.svg",										                                  VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist/1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/semerkand-way-tr.png",									                Samarkand Way
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/semerkand-way-tr.png",									                            Samarkand Way
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/mt_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/semerkand-tv-tr.png",									                  Semerkand TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/semerkand-tv-tr.png",									                              Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/mt_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dost-tv-tr.png",									                      Dost TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dost-tv-tr.png",									                                  Dost TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6793/index.m3u8
-#EXTINF:0 tvg-rec="3",																                                                          FM TV 
+#EXTINF:0 tvg-rec="3",																                                                                      FM TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6789/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayrak_radyosu_tv_1.png",								                          BRT 1
@@ -441,21 +441,19 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7143/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      1TV HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7144/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Pirveli Arxi
-https://streaming-hls3.televizia.org/hls/pirveliarxi.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                                      Kavkasia
-https://streaming-hls3.televizia.org/hls/kavkasia.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2206/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Imedi HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2204/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Adjara TV 
-https://streaming-hls4.televizia.org/hls/adjara.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2208/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Rustavi 2 HD 
-https://streaming-hls3.televizia.org/hls/rustavi2.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7171/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Comedy Arxi  
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7149/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Palitra News HD
-https://streaming-hls2.televizia.org/hls/palitra.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7165/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Pos TV HD 
-https://streaming-hls3.televizia.org/hls/postv.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7150/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      GDS 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2202/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Maestro
@@ -467,7 +465,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2206/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Obiektivi TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2207/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Marao HD 
-https://streaming-hls2.televizia.org/hls/marao.m3u8
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7161/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                                      Agrogaremo TV HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7147/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                                      Agro TV
@@ -1694,6 +1692,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
