@@ -1829,8 +1829,25 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7004/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2444/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Moldova 2 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2445/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Pro TV Chisinau HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19452/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Realitatea Live HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31894/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Premiera TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31895/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              NTS 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31898/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Popas TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31899/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Regional TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31900/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Sor TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31901/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Star TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31902/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              GRT 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2448/index.m3u8
+
 
 
 
