@@ -273,6 +273,8 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w390984398.m3u
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6927/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg", 									                Haber Global
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6928/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                          KRT TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15255/index.m3u8
 #EXTINF:0 tvg-rec="3",																                                                          Ulusal Kanal 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6931/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-world-tr.svg", 									                    TRT World
@@ -1757,17 +1759,23 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30052/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30055/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Discovery Life HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30056/index.m3u8
-#EXTINF:0 tvg-rec="0",                                                                                              Crime+Investigation HD
+#EXTINF:0 tvg-rec="0",                                                                                         Crime+Investigation HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30046/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              E! HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30060/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              History HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30105/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              FXM Retro HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1106/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              A&E 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1108/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              FYI HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30085/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              HSN HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30109/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              HSN2 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30110/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                    Hallmark Movies & Mysteries HD
+#EXTINF:0 tvg-rec="3",                                                                            Hallmark Movies & Mysteries HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1075/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Telemundo HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1080/index.m3u8
@@ -1793,6 +1801,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1102/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1103/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              TLC HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1105/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ESPN Deportes HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30063/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ESPNews HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30066/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ESPNU HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30067/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="3",                                                                                              TVR 1 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6941/index.m3u8
@@ -1810,6 +1824,14 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7002/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7003/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Antena Stars HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7004/index.m3u8
+#EXTINF:..............................................................................................................................................................
+#EXTINF:0 tvg-rec="3",                                                                                              Moldova 1 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2444/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Moldova 2 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2445/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              GRT 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2448/index.m3u8
+
 
 
 
