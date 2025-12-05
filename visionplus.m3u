@@ -210,25 +210,23 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19073/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tay-tv-tr.png", 									                      TAY TV
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/track_0_400/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fbtv_fenerbahce.png", 									                FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b1096000_slTUR.m3u8
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          Tivibu Spor 2 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6816/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 1 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6817/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 2 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6818/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 2 4K
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 2 HD (yedek)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6819/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 3 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6820/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 3 4K
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 3 HD (yedek)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6821/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 4 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6822/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 4 4K
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 4 HD (yedek)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6823/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports Max 1 HD 
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6824/index.m3u8
 #EXTINF:0 tvg-rec="3",																                                                          beIN Gurme HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6804/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          Sinema TV HD 
@@ -1753,6 +1751,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30055/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30056/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              E! HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30060/index.m3u8
+
 
 
 
