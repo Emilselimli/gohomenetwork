@@ -1637,6 +1637,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6111/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15170/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              3sat HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31282/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              SYFY HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6092/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Kabel Eins Classics HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31330/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Kabel Eins Doku HD
@@ -1800,12 +1802,15 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6942/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6943/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              TVR International HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7000/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TVR Moldova MD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2464/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Antena 1 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7002/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Antena 3 CNN HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7003/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Antena Stars HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7004/index.m3u8
+
 
 
 
