@@ -1589,6 +1589,20 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31826/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31829/index.m3u8
 #EXTINF:0 tvg-rec="0",                                TVE Internacional
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31824/index.m3u8
+#EXTINF:0 tvg-rec="0",                                TEN 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15249/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Nova 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15250/index.m3u8
+#EXTINF:0 tvg-rec="0",                                24 Horas 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31818/index.m3u8
+#EXTINF:0 tvg-rec="0",                                LaSexta HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31833/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Antena 3 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31825/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Cuatro HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31827/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Telecinco HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31828/index.m3u8
 #EXTINF:-1,																	          Real Madrid TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15248/index.m3u8
 #EXTINF:..............................................................................................................................................................
@@ -1739,6 +1753,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30055/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30056/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              E! HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30060/index.m3u8
+
 
 
 
