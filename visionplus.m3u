@@ -133,6 +133,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2328/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6894/index.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png",							        EURO D
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6892/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              beIN Box Office 1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6744/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              beIN Box Office 2 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6745/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              beIN Box Office 3 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6743/index.m3u8
 #EXTINF:0 tvg-rec="3",																                                                              beIN Movies Family 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6878/index.m3u8
 #EXTINF:0 tvg-rec="3",																                                                              beIN Movies Premiere 2 
@@ -141,6 +147,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6879/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6880/index.m3u8
 #EXTINF:0 tvg-rec="3",																                                                              beIN Series Drama 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6882/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              beIN Series 2 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6814/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg", 								                          	Kanal 7 
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-avrupa-tr.png", 								                    Kanal 7 Avrupa
@@ -203,6 +211,24 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19073/index.m3u8
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/track_0_400/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fbtv_fenerbahce.png", 									                FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b1096000_slTUR.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          Tivibu Spor 2 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6816/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 1 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6817/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 2 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6818/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 2 4K
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6819/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 3 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6820/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 3 4K
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6821/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 4 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6822/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 4 4K
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6823/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          beIN Sports Max 1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6824/index.m3u8
 #EXTINF:0 tvg-rec="3",																                                                          beIN Gurme HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6804/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          Sinema TV HD 
@@ -1703,6 +1729,17 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              CNBC HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/962/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Discovery Channel HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30052/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Discovery Family HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30055/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Discovery Life HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30056/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              E! HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30060/index.m3u8
+
 
 
 
