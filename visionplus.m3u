@@ -422,6 +422,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6793/index.m3u8
 #EXTINF:0 tvg-rec="3",																                                                                      FM TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6789/index.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_256.png?",					                  Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayrak_radyosu_tv_1.png",								                          BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
@@ -918,6 +920,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5052/index.m3u8
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="LDPRTV.ru",											                                              	ЛДПР ТВ 
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              Ключ HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20041/index.m3u8
 #EXTINF:0 tvg-rec="7",                                                                              Viju Nature
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/161/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                              Viju Nature HD
@@ -1042,13 +1046,19 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5079/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5080/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                              Viju+ Sport 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9249/index.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        RT News
+#EXTINF:0 tvg-rec="3",                                                                              Fast & Fun Box HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1018/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              Мир Баскетбола
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10033/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              Хоккей ТВ HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10039/index.m3u8
+#EXTINF:-1 tvg-logo="",																                                              RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        RT Documentary
+#EXTINF:-1 tvg-logo="",																                                              RT Documentary
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        RT Deutsch
+#EXTINF:-1 tvg-logo="",																                                              RT Deutsch
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        RT Arabic
+#EXTINF:-1 tvg-logo="",																                                              RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="",																                                                                                        Известия
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2008/index.m3u8
@@ -1120,15 +1130,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7261/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9148/index.m3u8
 #EXTINF:-1 tvg-logo="",                              	Trash HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6396/index.m3u8
-#EXTINF:0 tvg-rec="0",                                Ключ HD
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20041/index.m3u8
 #EXTINF:-1 tvg-logo="",	                              FX HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9018/index.m3u8
 #EXTINF:-1 tvg-logo="",																Наш Кинопоказ HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9086/index.m3u8
 #EXTINF:-1 tvg-logo="",																Кинопремьера HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9020/index.m3u8
-
 #EXTINF:-1 tvg-logo="",																Киноужас HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9033/index.m3u8
 #EXTINF:-1 tvg-logo="",																ТВ 21
@@ -1696,6 +1703,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
