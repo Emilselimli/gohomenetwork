@@ -1743,16 +1743,69 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              CNBC HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/962/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              NBC New York HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1081/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Fox 5 WNYW HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1086/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              BBC America HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1092/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Discovery Channel HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30052/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Discovery Family HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30055/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Discovery Life HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30056/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Crime+Investigation HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30046/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              E! HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30060/index.m3u8
-
-
+#EXTINF:0 tvg-rec="0",                                                                                              History HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30105/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              HSN HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30109/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              HSN2 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30110/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                    Hallmark Movies & Mysteries HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1075/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Telemundo HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1080/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Disney XD HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1082/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              BabyFirst TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30012/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              AMC HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1083/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              ABC HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1087/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Food Network HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1107/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Cinemax Hits HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6152/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              NHL Network 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7225/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              MotorTrend HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1091/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TNT HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1102/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TBS 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1103/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TLC HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1105/index.m3u8
+#EXTINF:..............................................................................................................................................................
+#EXTINF:0 tvg-rec="3",                                                                                              TVR 1 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6941/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TVR 2 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6942/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TVR 3 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6943/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TVR International HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7000/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Antena 1 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7002/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Antena 3 CNN HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7003/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Antena Stars HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7004/index.m3u8
 
 
 
