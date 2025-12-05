@@ -316,6 +316,8 @@ https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_293.png", 					      B! Kanal
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_136.png?v=4", 			      Ton TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aksu-tv-tr.png", 									                      AKSU TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eskisehirin_tv_tr.png", 								                ES TV
@@ -366,6 +368,8 @@ https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_46.png" ,						    ETV Kayseri
 https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_291.png?v=3" ,           ONS TV
+https://live.artidijitalmedya.com/artidijital_onstv/onstv/artidijital_onstv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aras-tv-tr.png" , 								            Aras TV
 https://2.rtmp.org/tv217/yayin.stream/chunklist_w1916535662.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-1-tr.png",										                        TV 1
@@ -1692,6 +1696,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+
 
 
 
