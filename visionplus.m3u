@@ -70,6 +70,8 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="",															                                                            LIVE TV
 https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                          KATV1
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16042/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg",      KANAL D
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2304/index.m3u8
@@ -211,8 +213,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19073/index.m3u8
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/track_0_400/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fbtv_fenerbahce.png", 									                FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                          Tivibu Spor 1 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19074/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          Tivibu Spor 2 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6816/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                          Tivibu Spor 3 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19076/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 1 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6817/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                          beIN Sports 2 HD 
@@ -1685,6 +1691,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31381/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31382/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Nitro 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6064/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              MDR Fernsehen HD (Sachsen)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31340/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              SR Fernsehen HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31414/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Stingray Classica HD 
@@ -1713,6 +1721,10 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31430/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31310/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Euronews Deutsch 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31313/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              N-TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31345/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              N24 Doku HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31346/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="0",                                                                                              SVT1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7350/index.m3u8
@@ -1745,6 +1757,18 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12053/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1,																	                                                                        KANAL D Drama
 https://thema-vivekanald-rakuten.amagi.tv/720p-vtt/index.m3u8
+#EXTINF:..............................................................................................................................................................
+#EXTINF:0 tvg-rec="0",                                                                                              ITV1 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19185/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ITV2 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19186/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ITV3 +1
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19187/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ITV4 +1 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19188/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ITV4 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19189/index.m3u8
+#EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="3",                                                                                              CNBC HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/962/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              NBC New York HD 
@@ -1824,6 +1848,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7002/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7003/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Antena Stars HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7004/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Acasă Gold 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6945/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Alfa Omega TV
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6946/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              National 24 Plus 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6947/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="3",                                                                                              Moldova 1 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2444/index.m3u8
@@ -1845,8 +1875,21 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31900/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31901/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Star TV HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31902/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TV8 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2454/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Pro TV Chisinau
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2456/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Global 24
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2457/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TVC 21 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2458/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Exclusiv TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2463/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              ТСВ 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2466/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              GRT 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2448/index.m3u8
+
 
 
 
