@@ -734,9 +734,6 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20198/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20201/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                                                      Ruxsor TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20202/index.m3u8
-#EXTINF:..............................................................................................................................................................
-#EXTINF:0 tvg-rec="3",																                                                                      ATV Gagauzia
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2459/index.m3u8
 #EXTINF:............................................................................................RUSSIA............................................................
 #EXTINF:-1 tvg-logo="",															                                                Первый канал HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/204/index.m3u8
@@ -1302,6 +1299,11 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2139/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2143/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Миллет HD (Крым)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19258/index.m3u8
+#EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-rec="3",                                GRT (Gagauziya)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2448/index.m3u8
+#EXTINF:0 tvg-rec="3",														    ATV (Gagauziya)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2459/index.m3u8
 #EXTINF:..............................................................................U.A.E...........................................................................
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",										                        	QATAR TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
@@ -1962,18 +1964,16 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2461/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19443/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Euronews Romania-Moldova
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2462/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                              TVR 1 Moldova
+#EXTINF:0 tvg-rec="3",                                                                                              DIGI 24
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5026/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                              7TV 
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2455/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              One TV MD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2451/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Moldova TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2453/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Setanta Moldova 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19441/index.m3u8
-#EXTINF:0 tvg-rec="3",                                                                                              GRT 
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2448/index.m3u8
+
+
 
 
 
