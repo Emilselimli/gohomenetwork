@@ -1207,6 +1207,39 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19354/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Волга 24 HD (Нижний Новгород)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19353/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-rec="0",                                Первый канал +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15333/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Россия 1 +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15334/index.m3u8
+#EXTINF:0 tvg-rec="0",                                НТВ +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15336/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Пятый канал +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15337/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Россия К +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15338/index.m3u8
+#EXTINF:0 tvg-rec="0",                                ОТР +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15341/index.m3u8
+#EXTINF:0 tvg-rec="0",                                ТВЦ +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15342/index.m3u8
+#EXTINF:0 tvg-rec="0",                                РЕН ТВ +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15343/index.m3u8
+#EXTINF:0 tvg-rec="0",                                СПАС +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15344/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Домашний +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15345/index.m3u8
+#EXTINF:0 tvg-rec="0",                                ТВ-3 +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15346/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Пятница! +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15347/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Звезда +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15348/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Мир +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15349/index.m3u8
+#EXTINF:0 tvg-rec="0",                                ТНТ +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15350/index.m3u8
+#EXTINF:0 tvg-rec="0",                                СТС +7 (Владивосток)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15351/index.m3u8
+#EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="",								                  Башкортостан 24  (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/832/index.m3u8
 #EXTINF:-1,																	          БСТ (Уфа)
@@ -1972,6 +2005,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2451/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2453/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Setanta Moldova 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19441/index.m3u8
+
 
 
 
