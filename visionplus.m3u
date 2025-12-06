@@ -1200,8 +1200,6 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10034/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 tvg-rec="0",                                ННТВ HD (Нижний Новгород)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19343/index.m3u8
-#EXTINF:0 tvg-rec="0",                                Нижний Новгород 24 HD
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20124/index.m3u8
 #EXTINF:0 tvg-rec="3",                                Волга HD (Нижний Новгород)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19354/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Волга 24 HD (Нижний Новгород)
@@ -2005,6 +2003,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2451/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2453/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Setanta Moldova 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19441/index.m3u8
+
 
 
 
