@@ -1588,6 +1588,14 @@ https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
 #EXTINF:-1 tvg-id="ClassTVModa.it@SD",                                                                                Class TV Moda
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classtvmoda.m3u8
+#EXTINF:-1 tvg-id=" ",                                                                                                Sport Italia
+https://origin-001.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_720p/chunks.m3u8
+#EXTINF:-1 tvg-id=" ",                                                                                                SI Solo Calcio
+https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/sportitalia/sisolocalcio_480p/chunks.m3u8
+#EXTINF:-1 tvg-id=" ",                                                                                                SI Prime Vera
+https://origin-001.streamup.eu/sportitalia/silive24_abr/sportitalia/silive24_720p/chunks.m3u8
+#EXTINF:-1 tvg-id=" ",                                                                                                Bike Channel
+https://cdn10.milano.nxmedge.net/bikechannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-logo="https://i.postimg.cc/7LQHQdN6/italianfishingtv.png",             Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL1025Best.it@SD" tvg-logo="https://i.imgur.com/9PNlbaq.png",                                     RTL 102.5 Best 
@@ -2003,6 +2011,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2451/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2453/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Setanta Moldova 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19441/index.m3u8
+
 
 
 
