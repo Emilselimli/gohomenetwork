@@ -2012,6 +2012,42 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2453/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Setanta Moldova 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19441/index.m3u8
 #EXTINF:..............................................................................................................................................................
+#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://i.imgur.com/45uptR8.png" ,                                     DD India 
+#EXTGRP:Hindistan
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" tvg-logo="https://i.imgur.com/VKpjoD9.png" ,                                 DD Jharkhand
+#EXTGRP:Hindistan
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
+#EXTINF:-1 tvg-id="DDHaryana.in@SD" tvg-logo="https://i.imgur.com/1T92u0F.jpeg" ,                                  DD Haryana
+#EXTGRP:Hindistan
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-logo="https://i.imgur.com/5IfuVGR.png" ,                           DD Himachal Pradesh (504p)
+#EXTGRP:Hindistan
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://i.imgur.com/dHURIzT.png" ,                                DD Arun Prabha (360p)
+#EXTGRP:Hindistan
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://i.imgur.com/UAkOyRI.png" ,                                     DD Assam
+#EXTGRP:Hindistan
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-logo="https://i.imgur.com/RHly9gC.png" ,                                    DD Bangla
+#EXTGRP:Hindistan
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-logo="https://i.imgur.com/4tfUIEo.png",                                    DD Bharati (720p)
+#EXTGRP:Hindistan
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-logo="https://i.imgur.com/C7KQiZI.png",                                      DD Bihar (720p)
+#EXTGRP:Hindistan
+https://cdn-4.pishow.tv/live/35/master.m3u8
+#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-logo="https://i.imgur.com/MaDlMtb.png" ,                                  DD Chandana
+#EXTGRP:Hindistan
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" ,                              DD Chhattisgarh (720p)
+#EXTGRP:Hindistan
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-logo="" ,                                                                      DD Goa (504p)
+#EXTGRP:Hindistan
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Zee TV HD 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6576/index.m3u8
@@ -2111,15 +2147,29 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6648/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Pitaara 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6650/index.m3u8
-#EXTINF:0 tvg-rec="0",                                                                                              Surya TV 
-#EXTGRP:Hindistan
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6655/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Zee Talkies 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6660/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Zee Punjabi 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6676/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              PTC Punjabi
+#EXTGRP:Hindistan
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6670/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              PTC Simran 
+#EXTGRP:Hindistan
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6687/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              9X Tashan 
+#EXTGRP:Hindistan
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6672/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Desi Channel
+#EXTGRP:Hindistan
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
+#EXTGRP:Hindistan
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
+
 
 
 
