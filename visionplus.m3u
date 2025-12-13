@@ -45,7 +45,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16052/index.m3u8
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/apatv.png",										                                    	APA TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/real.svg",											                                      REAL TV
-https://str.yodacdn.net/real/index.m3u8
+http://str.yodacdn.net/real/index.m3u8
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/logos/qafqaz.svg",								                        	Qafqaz TV  (!not 24/7)
 https://str.yodacdn.net/qafkaz/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/start.png",											                                    KANAL S
@@ -2168,6 +2168,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
