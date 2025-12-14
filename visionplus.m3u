@@ -68,7 +68,7 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="",															                                                            LIVE TV
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:0 tvg-rec="0",                                                                                          KATV1
+#EXTINF:0 tvg-rec="0",                                                                                          KATV 1
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16042/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg",      KANAL D
@@ -1597,22 +1597,22 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9073/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Перший Автомобільний HD
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7228/index.m3u8
-#EXTINF:0 tvg-rec="0",Star Cinema FHD UA
+#EXTINF:0 tvg-rec="0",                                Star Cinema FHD 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15262/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmBox ArtHouse
+#EXTINF:0 tvg-rec="0",                                FilmBox ArtHouse
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15265/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmBox UA
+#EXTINF:0 tvg-rec="0",                                FilmBox 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15266/index.m3u8
-#EXTINF:0 tvg-rec="0",Enter-фільм HD UA
+#EXTINF:0 tvg-rec="0",                                Enter-фільм HD 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15273/index.m3u8
-#EXTINF:0 tvg-rec="0",Eco TV UA
+#EXTINF:0 tvg-rec="0",                                Eco TV
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15275/index.m3u8
-#EXTINF:0 tvg-rec="0",EU Music FHD UA
+#EXTINF:0 tvg-rec="0",                                EU Music 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15277/index.m3u8
 #EXTINF:0 tvg-rec="0",4ever Music UA
@@ -2610,6 +2610,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
