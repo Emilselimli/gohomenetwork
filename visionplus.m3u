@@ -62,8 +62,6 @@ https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/ntv.png",											                                      NTV Naxchivan
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="", 														                                                            KTV (!not 24/7)
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 tvg-logo="", 													                                                            	Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u
 #EXTINF:-1 tvg-logo="",														                                                            	Show Plus
@@ -2612,6 +2610,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
