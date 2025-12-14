@@ -1497,9 +1497,6 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1004/index.m3u8
 #EXTINF:0 tvg-rec="3",                                Перший 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1016/index.m3u8
-#EXTINF:0 tvg-rec="3",                                Obozrevatel TV HD 
-#EXTGRP:Ukrayna
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1028/index.m3u8
 #EXTINF:0 tvg-rec="3",                                Інтер HD 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1047/index.m3u8
@@ -1641,9 +1638,6 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31732/index.m3u8
 #EXTINF:0 tvg-rec="0",Наука UA
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31733/index.m3u8
-#EXTINF:0 tvg-rec="0",Obozrevatel TV FHD UA
-#EXTGRP:Ukrayna
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31734/index.m3u8
 #EXTINF:0 tvg-rec="0",Перший Міський HD (Кривий Ріг) UA
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31736/index.m3u8
@@ -2618,6 +2612,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
