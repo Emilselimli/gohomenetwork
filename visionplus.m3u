@@ -70,8 +70,6 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                          KATV1
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16042/index.m3u8
-#EXTINF:0 tvg-rec="0",                                                                                          KTV (!not 24/7)
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg",      KANAL D
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2304/index.m3u8
@@ -2612,6 +2610,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
