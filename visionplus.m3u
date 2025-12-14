@@ -1440,6 +1440,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15007/index.m3u8
 #EXTINF:0 tvg-rec="3",                                FilmBox 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/948/index.m3u8
+#EXTINF:0 tvg-rec="3",                                Zoom UA
+#EXTGRP:Ukrayna
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1000/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Zoom HD UA
+#EXTGRP:Ukrayna
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15130/index.m3u8
 #EXTINF:0 tvg-rec="3",                                24 Канал 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/951/index.m3u8
@@ -1476,6 +1482,9 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6314/index.m3u8
 #EXTINF:0 tvg-rec="3",                                Xsport 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6309/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Xsport+ HD 
+#EXTGRP:Ukrayna
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15261/index.m3u8
 #EXTINF:0 tvg-rec="3",                                Bolt 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/991/index.m3u8
@@ -1497,310 +1506,284 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1047/index.m3u8
 #EXTINF:0 tvg-rec="3",                                Рибалка 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1058/index.m3u8
-
-#EXTINF:0 tvg-rec="3",ТВА HD (Чернівці) UA
+#EXTINF:0 tvg-rec="0",                                11 Канал HD (Дніпро)
+#EXTGRP:Ukrayna
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31785/index.m3u8
+#EXTINF:0 tvg-rec="0",                                36.6 TV 
+#EXTGRP:Ukrayna
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31787/index.m3u8
+#EXTINF:0 tvg-rec="3",                                ТВА HD (Чернівці) 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/998/index.m3u8
-#EXTINF:0 tvg-rec="3",Zoom UA
-#EXTGRP:Ukrayna
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1000/index.m3u8
-#EXTINF:0 tvg-rec="0",Zoom HD UA
-#EXTGRP:Ukrayna
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15130/index.m3u8
-#EXTINF:0 tvg-rec="3",ПлюсПлюс UA
+#EXTINF:0 tvg-rec="3",                                ПлюсПлюс 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1002/index.m3u8
-#EXTINF:0 tvg-rec="3",Eco TV HD UA
+#EXTINF:0 tvg-rec="3",                                Eco TV HD 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1006/index.m3u8
-#EXTINF:0 tvg-rec="3",ТЕТ UA
+#EXTINF:0 tvg-rec="3",                                ТЕТ 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1009/index.m3u8
-#EXTINF:0 tvg-rec="3",Сонце UA
+#EXTINF:0 tvg-rec="3",                                Сонце 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1013/index.m3u8
-#EXTINF:0 tvg-rec="3",Прямий HD UA
+#EXTINF:0 tvg-rec="3",                                Прямий HD U
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1015/index.m3u8
-#EXTINF:0 tvg-rec="3",Уніaн Серіал HD UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                Уніaн Серіал HD
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1023/index.m3u8
-#EXTINF:0 tvg-rec="3",Київ UA
+#EXTINF:0 tvg-rec="3",                                Київ 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1045/index.m3u8
-#EXTINF:0 tvg-rec="3",8 Канал UA HD
+#EXTINF:0 tvg-rec="3",                                8 Канал
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1046/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВА (Чернівці) UA
+#EXTINF:0 tvg-rec="3",                                ТВА (Чернівці) (live)
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1072/index.m3u8
-#EXTINF:0 tvg-rec="3",24 Канал HD UA
+#EXTINF:0 tvg-rec="3",                                24 Канал HD 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1063/index.m3u8
-#EXTINF:0 tvg-rec="3",4 Канал HD UA
+#EXTINF:0 tvg-rec="3",                                4 Канал HD 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1039/index.m3u8
-#EXTINF:0 tvg-rec="3",Тернопіль 1 UA
+#EXTINF:0 tvg-rec="3",                                Тернопіль 1 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5041/index.m3u8
-
-#EXTINF:0 tvg-rec="3",Еспресо UA
+#EXTINF:0 tvg-rec="3",                                Еспресо 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6311/index.m3u8
-
-#EXTINF:0 tvg-rec="3",1+1 Марафон HD UA
+#EXTINF:0 tvg-rec="3",                                1+1 Марафон HD (live)
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6317/index.m3u8
-#EXTINF:0 tvg-rec="3",Еспресо HD UA
+#EXTINF:0 tvg-rec="3",                                Еспресо HD 
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6321/index.m3u8
-#EXTINF:0 tvg-rec="3",Bolt Россия HD
+#EXTINF:0 tvg-rec="3",                                Bolt Россия HD
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6322/index.m3u8
-
-#EXTINF:0 tvg-rec="3",Star Cinema Россия HD
+#EXTINF:0 tvg-rec="3",                                Star Cinema Россия HD
 #EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6325/index.m3u8
-#EXTINF:0 tvg-rec="3",Star Family Россия HD
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                Star Family Россия HD
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6326/index.m3u8
-#EXTINF:0 tvg-rec="3",8 Канал FHD UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                8 Канал (live)
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6327/index.m3u8
-
-#EXTINF:0 tvg-rec="3",NIKI Kids HD UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                NIKI Kids HD
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6332/index.m3u8
-#EXTINF:0 tvg-rec="3",NIKI Junior HD UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                NIKI Junior HD 
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6333/index.m3u8
-
-#EXTINF:0 tvg-rec="3",ICTV UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                ICTV 
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6339/index.m3u8
-#EXTINF:0 tvg-rec="3",Апостроф TV HD UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                Апостроф TV HD 
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6373/index.m3u8
-#EXTINF:0 tvg-rec="3",Оце HD UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                Оце HD 
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6375/index.m3u8
-
-#EXTINF:0 tvg-rec="3",2+2 HD UA
-#EXTGRP:Украина | Українські
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6378/index.m3u8
-#EXTINF:0 tvg-rec="3",ПлюсПлюс HD UA
-#EXTGRP:Украина | Українські
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6379/index.m3u8
-#EXTINF:0 tvg-rec="3",Оце UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                Оце 
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6380/index.m3u8
-#EXTINF:0 tvg-rec="3",Еспресо FHD UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="3",                                2+2 HD 
+#EXTGRP:Ukrayna
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6378/index.m3u8
+#EXTINF:0 tvg-rec="3",                                ПлюсПлюс HD 
+#EXTGRP:Ukrayna
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6379/index.m3u8
+#EXTINF:0 tvg-rec="3",                                Еспресо (live)
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9073/index.m3u8
-#EXTINF:0 tvg-rec="0",Перший Автомобільний HD UA
-#EXTGRP:Украина | Українські
+#EXTINF:0 tvg-rec="0",                                Перший Автомобільний HD
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7228/index.m3u8
-#EXTINF:0 tvg-rec="0",Xsport+ HD UA
-#EXTGRP:Украина | Українські
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15261/index.m3u8
 #EXTINF:0 tvg-rec="0",Star Cinema FHD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15262/index.m3u8
 #EXTINF:0 tvg-rec="0",FilmBox ArtHouse
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15265/index.m3u8
 #EXTINF:0 tvg-rec="0",FilmBox UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15266/index.m3u8
 #EXTINF:0 tvg-rec="0",Enter-фільм HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15273/index.m3u8
 #EXTINF:0 tvg-rec="0",Eco TV UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15275/index.m3u8
 #EXTINF:0 tvg-rec="0",EU Music FHD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15277/index.m3u8
 #EXTINF:0 tvg-rec="0",4ever Music UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15278/index.m3u8
 #EXTINF:0 tvg-rec="0",Уніaн Серіал UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31726/index.m3u8
 #EXTINF:0 tvg-rec="0",Фауна UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31727/index.m3u8
 #EXTINF:0 tvg-rec="0",Масон ТВ HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31729/index.m3u8
 #EXTINF:0 tvg-rec="0",Ми Україна UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31731/index.m3u8
 #EXTINF:0 tvg-rec="0",НТА HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31732/index.m3u8
 #EXTINF:0 tvg-rec="0",Наука UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31733/index.m3u8
 #EXTINF:0 tvg-rec="0",Obozrevatel TV FHD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31734/index.m3u8
 #EXTINF:0 tvg-rec="0",Перший Міський HD (Кривий Ріг) UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31736/index.m3u8
 #EXTINF:0 tvg-rec="0",Перший Міський FHD (Одеса) UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31737/index.m3u8
 #EXTINF:0 tvg-rec="0",Рада HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31739/index.m3u8
-#EXTINF:0 tvg-rec="0",Радіо ТВА (Чернівці) UA
-#EXTGRP:Украина | Українські
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31740/index.m3u8
-#EXTINF:0 tvg-rec="0",Радіо Закарпаття FM UA
-#EXTGRP:Украина | Українські
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31741/index.m3u8
-#EXTINF:0 tvg-rec="0",Радіо Промінь UA
-#EXTGRP:Украина | Українські
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31742/index.m3u8
 #EXTINF:0 tvg-rec="0",Рибалка HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31743/index.m3u8
 #EXTINF:0 tvg-rec="0",Світло HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31744/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Перший Західний HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31752/index.m3u8
 #EXTINF:0 tvg-rec="0",Терра UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31753/index.m3u8
 #EXTINF:0 tvg-rec="0",UTravel HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31762/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Kino Action HD
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31763/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Kino Comedy HD
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31764/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Kino HD
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31765/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Nature CEE HD
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31766/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Kino World
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31767/index.m3u8
 #EXTINF:0 tvg-rec="0",Ісландія HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31769/index.m3u8
 #EXTINF:0 tvg-rec="0",Аверс UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31770/index.m3u8
 #EXTINF:0 tvg-rec="0",Армія TV HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31771/index.m3u8
 #EXTINF:0 tvg-rec="0",Галичина HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31772/index.m3u8
 #EXTINF:0 tvg-rec="0",Дача UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31775/index.m3u8
 #EXTINF:0 tvg-rec="0",Дім UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31776/index.m3u8
 #EXTINF:0 tvg-rec="0",ЕТНО Канал HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31777/index.m3u8
 #EXTINF:0 tvg-rec="0",Закон ТВ HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31778/index.m3u8
 #EXTINF:0 tvg-rec="0",Kvartal TV HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31780/index.m3u8
 #EXTINF:0 tvg-rec="0",Київ HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31781/index.m3u8
 #EXTINF:0 tvg-rec="0",1+1 Україна HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31784/index.m3u8
-#EXTINF:0 tvg-rec="0",11 Канал HD (Дніпро) UA
-#EXTGRP:Украина | Українські
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31785/index.m3u8
-#EXTINF:0 tvg-rec="0",36.6 TV UA
-#EXTGRP:Украина | Українські
-http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31787/index.m3u8
 #EXTINF:0 tvg-rec="0",4ever Cinema HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31788/index.m3u8
 #EXTINF:0 tvg-rec="0",6 Соток UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31790/index.m3u8
 #EXTINF:0 tvg-rec="0",AMC UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31792/index.m3u8
 #EXTINF:0 tvg-rec="0",Bolt HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31793/index.m3u8
 #EXTINF:0 tvg-rec="0",Cine+ HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31794/index.m3u8
 #EXTINF:0 tvg-rec="0",Cine+ Hit HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31795/index.m3u8
 #EXTINF:0 tvg-rec="0",Cine+ Kids HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31796/index.m3u8
 #EXTINF:0 tvg-rec="0",Cine+ Legend HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31797/index.m3u8
 #EXTINF:0 tvg-rec="0",D1 HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31798/index.m3u8
 #EXTINF:0 tvg-rec="0",Da Vinci HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31799/index.m3u8
 #EXTINF:0 tvg-rec="0",Divi Sport HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31800/index.m3u8
 #EXTINF:0 tvg-rec="0",Equalympic HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31802/index.m3u8
 #EXTINF:0 tvg-rec="0",Fashion TV HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31804/index.m3u8
 #EXTINF:0 tvg-rec="0",FilmUA Drama UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31805/index.m3u8
 #EXTINF:0 tvg-rec="0",FilmBox ArtHouse HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31807/index.m3u8
 #EXTINF:0 tvg-rec="0",FilmUA Live HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31808/index.m3u8
 #EXTINF:0 tvg-rec="0",FreeДом UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31810/index.m3u8
 #EXTINF:0 tvg-rec="0",К1 UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31812/index.m3u8
 #EXTINF:0 tvg-rec="0",Kino Action HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31813/index.m3u8
 #EXTINF:0 tvg-rec="0",Kino Comedy HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31814/index.m3u8
 #EXTINF:0 tvg-rec="0",Kino Premiere HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31815/index.m3u8
 #EXTINF:0 tvg-rec="0",Kinosweet HD UA
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31816/index.m3u8
 #EXTINF:0 tvg-rec="0",Kinowood HD
-#EXTGRP:Украина | Українські
+#EXTGRP:Ukrayna
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31817/index.m3u8
 #EXTINF:..............................................................................U.A.E...........................................................................
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",										                        	QATAR TV
@@ -2635,6 +2618,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
