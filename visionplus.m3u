@@ -1,5 +1,9 @@
 ﻿#EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml"
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Emilselimli/gohomenetwork/refs/heads/main/epg.xml"
+
+
+
+
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-logo="https://www.tvnet.az/uploads/channel_logos/AzTVWF.png",									                  AzTV
 #EXTGRP:Azərbaycan
@@ -2725,6 +2729,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
