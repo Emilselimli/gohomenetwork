@@ -2470,6 +2470,21 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2453/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Setanta Moldova 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19441/index.m3u8
 #EXTINF:..............................................................................................................................................................
+#EXTINF:-1 tvg-id="RTSH1.al@SD" tvg-logo="https://i.postimg.cc/nhsKSjBf/rtsh1.png" group-title="Albaniya",          RTSH 1 
+http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH2.al@SD" tvg-logo="https://i.postimg.cc/Mph7C6mM/rtsh2.png" group-title="Albaniya",          RTSH 2 
+http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al@SD" tvg-logo="https://i.postimg.cc/qRr871Yp/rtsh24.png" group-title="Albaniya",        RTSH 24 
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShqip.al@SD" tvg-logo="https://i.postimg.cc/nrrjR4Jq/rtshshqip.png" group-title="Albaniya",  RTSH Shqip 
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHSport.al@SD" tvg-logo="https://i.postimg.cc/wMrtS1qZ/rtshsport.png" group-title="Albaniya",  RTSH Sport 
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1,                                                                                                         KLAN NEWS
+http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
+#EXTINF:-1,                                                                                                         NEWS 24
+http://178.33.11.6:8696/live/news24ott/playlist.m3u8
+#EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://i.imgur.com/45uptR8.png" ,                                     DD India 
 #EXTGRP:Hindistan
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
@@ -2626,6 +2641,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
