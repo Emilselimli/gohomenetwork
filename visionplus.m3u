@@ -2485,6 +2485,17 @@ http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
 #EXTINF:-1,                                                                                                         NEWS 24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 #EXTINF:..............................................................................................................................................................
+#EXTINF:-1 tvg-id="RTK1.xk@SD" tvg-logo="https://i.postimg.cc/wjHH0JS7/rtk1.png",                                   RTK 1
+https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
+#EXTINF:-1 tvg-id="RTK3.xk@SD" tvg-logo="https://i.postimg.cc/8CzGVGkG/rtk3.png",                                   RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk@SD" tvg-logo="https://i.postimg.cc/cC3bw9h6/rtv21.png"                                  RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kohavision.xk@SD" tvg-logo="https://i.imgur.com/LOi9yma.png"                                     Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="T7.xk@SD" tvg-logo="https://i.postimg.cc/sxcZ6SVy/t7.png",                                       T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://i.imgur.com/45uptR8.png" ,                                     DD India 
 #EXTGRP:Hindistan
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
@@ -2641,6 +2652,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
