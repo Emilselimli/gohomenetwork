@@ -1,74 +1,141 @@
 ﻿#EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml"
-
-#EXTINF:-1 tvg-logo="https://www.tvnet.az/uploads/channel_logos/AzTVWF.png",									                        AzTV
+#EXTINF:..............................................................................................................................................................
+#EXTINF:-1 tvg-logo="https://www.tvnet.az/uploads/channel_logos/AzTVWF.png",									                  AzTV
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/966/index.m3u8
-#EXTINF:-1 tvg-id="MedeniyyetTV.az"  tvg-logo="https://www.tvnet.az/uploads/channel_logos/MedeniyyetWF.png",				  Medeniyyet TV
+
+#EXTINF:-1 tvg-id="MedeniyyetTV.az"  tvg-logo="https://www.tvnet.az/uploads/channel_logos/MedeniyyetWF.png",	  Medeniyyet TV
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2197/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/idman-tv-az.png",								                        Idman TV
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2198/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/ictimai-tv-az.png",							                      	Ictimai TV
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2195/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azad_tv_az.png",								                        ATV AZ
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16045/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg",				                            ATV Cinema 
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2120/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://acra.gov.az/storage/950/ATV-vivace---Copy.jpg",									                 	ATV Vivace 
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16068/index.m3u8
+
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" ,									                        ARB
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2187/index.m3u8
+
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png"  ,															      	ARB 24
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2188/index.m3u8
+
 #EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" ,							                    	ARB Gunesh
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2189/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43h3krLh/images-1.jpg", 									                            Kepez TV
+#EXTGRP:Azərbaycan
 http://85.132.78.122:8050/hls/stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/eltv_logo.png",									                                  	ELTV
+#EXTGRP:Azərbaycan
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png",							                        	Dunya TV 
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2192/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/xazar.png",											                                    Xazar TV
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2199/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/mtv.png",											                                      MTV Azerbaycan
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2191/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/space-tv-az.png",							                      	  Space TV
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2190/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-az.png",									                          CBC TV
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1050/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc_sport_az.png",							                      	CBC Sport HD
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2193/index.m3u8
+
 #EXTINF:0 tvg-rec="0" tvg-logo="https://www.tvnet.az/uploads/channel_logos/SportTvLogo.png",	                  Sport TV HD 
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31926/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baku-tv-az.svg",							                        	BAKU TV
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16047/index.m3u8
-#EXTINF:0 tvg-rec="0",															                                                            VIP TV Azerbaycan
+
+#EXTINF:0 tvg-rec="0",															                                                            VIP TV AZ
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16052/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/apatv.png",										                                    	APA TV
+#EXTGRP:Azərbaycan
 http://rtmp.apa.tv/@pagroup!23.m3u8
+
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/real.svg",											                                      REAL TV
+#EXTGRP:Azərbaycan
 http://str.yodacdn.net/real/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://yodaplayer.yodacdn.net/logos/qafqaz.svg",								                        	Qafqaz TV  (!not 24/7)
+#EXTGRP:Azərbaycan
 https://str.yodacdn.net/qafkaz/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/start.png",											                                    KANAL S
+#EXTGRP:Azərbaycan
 https://str.yodacdn.net/start/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jNtrJCK/download.png",  								                            	STV (Sehiyye TV)
+#EXTGRP:Azərbaycan
 https://str.yodacdn.net/shtv/mono.m3u8
+
 #EXTINF:-1,																                                                                      TMB Azerbaycan 
+#EXTGRP:Azərbaycan
 https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,																                                                                      TMB TV
+#EXTGRP:Azərbaycan
 https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/biznestv.png", 									                                  	Biznes TV  (!not 24/7)		
+
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/biznestv.png", 									                                  	Biznes TV  (!not 24/7)	
+#EXTGRP:Azərbaycan
 https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://yoda.az/logos/kanal35.png",										                                    KANAL 35  (!not 24/7)			
+
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/kanal35.png",										                                    KANAL 35  (!not 24/7)	
+#EXTGRP:Azərbaycan
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://yoda.az/logos/ntv.png",											                                      NTV Naxchivan
+#EXTGRP:Azərbaycan
 http://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="", 													                                                            	Alvin Channel
+#EXTGRP:Azərbaycan
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u
+
 #EXTINF:-1 tvg-logo="",														                                                            	Show Plus
+#EXTGRP:Azərbaycan
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="",															                                                            LIVE TV
+#EXTGRP:Azərbaycan
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                          KATV 1
+#EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16042/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-tr.svg",      KANAL D
@@ -2657,6 +2724,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
