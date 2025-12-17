@@ -896,6 +896,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6039/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6053/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                              НТВ Беларусь 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19371/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              НТВ Право
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/743/index.m3u8
 #EXTINF:0 tvg-rec="7",                                                                              Мяч HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10058/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              2x2 
@@ -1128,6 +1130,10 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6045/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19248/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                              START Air HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/18036/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                              Загородный int HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2124/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              Загородная Жизнь
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/852/index.m3u8
 #EXTINF:0 tvg-rec="7",                                                                              FAN
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/734/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              Amedia 1 HD 
@@ -1176,8 +1182,12 @@ https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="",																                                              RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="",																                                                                                        Известия
+#EXTINF:-1 tvg-logo="",																                                              Известия
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2008/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              Кухня HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15132/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              360 (Иркутск)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31909/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                                                                        Центральное телевидение
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2064/index.m3u8
 #EXTINF:-1 tvg-logo="",															                                                                                        	360° Новости
@@ -2838,6 +2848,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
