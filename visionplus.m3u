@@ -894,6 +894,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6024/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6039/index.m3u8
 #EXTINF:0 tvg-rec="0",													                                                    НТВ +8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6053/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              НТВ Беларусь 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19371/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              2x2 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9139/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                              Моя Планета
@@ -1374,6 +1376,17 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15418/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15423/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Прима HD (Красноярск)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19361/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Кузбасс Первый HD (Кемерево)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20128/index.m3u8
+#EXTINF:0 tvg-rec="0",                                РТС (Абакан)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15365/index.m3u8
+#EXTINF:0 tvg-rec="0",                                ТНР 24 HD (Нижневартовск)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16028/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Евразия HD (Орск)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19236/index.m3u8
+#EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:0 tvg-rec="0",                                Беларусь 24 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14011/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1,																	          ТНВ-Планета
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/515/index.m3u8
@@ -2572,7 +2585,7 @@ http://178.33.11.6:8696/live/oranewspp1/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
 #EXTINF:0 tvg-id="Euronews Albania.al",                                                                             Euronews
 http://178.33.11.6:8696/live/euronewsott/playlist.m3u8
-#EXTINF:0 tvg-id="Klan Plus.al",Klan Plus
+#EXTINF:0 tvg-id="Klan Plus.al",                                                                                    Klan Plus
 http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-id="BHT1.ba@SD",                                                                                     BHT 1 
@@ -2736,6 +2749,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
