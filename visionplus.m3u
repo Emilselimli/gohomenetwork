@@ -85,7 +85,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31926/index.m3u8
 #EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16047/index.m3u8
 
-#EXTINF:0 tvg-rec="0" tvg-id="VIPTVAZ" ,															                                          VIP TV AZ
+#EXTINF:0 tvg-id="viptv.az" ,															                                                      VIP TV AZ
 #EXTGRP:Azərbaycan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16052/index.m3u8
 
@@ -2729,6 +2729,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
