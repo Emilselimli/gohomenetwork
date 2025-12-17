@@ -896,6 +896,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6039/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6053/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                              НТВ Беларусь 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19371/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              Мяч HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10058/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              2x2 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9139/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                              Моя Планета
@@ -1124,6 +1126,10 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6031/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6045/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                              START World HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19248/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              START Air HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/18036/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              FAN
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/734/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              Amedia 1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9069/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              Amedia 2
@@ -1148,12 +1154,20 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5079/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/5080/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                              Viju+ Sport 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9249/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              Viju+ Premiere HD (YEDEK)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/202/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              Viju+ Comedy HD (YEDEK)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/200/index.m3u8
+#EXTINF:0 tvg-rec="7",                                                                              Viju+ Megahit HD (YEDEK)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/201/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                              Fast & Fun Box HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1018/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                              Мир Баскетбола
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10033/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                              Хоккей ТВ HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/10039/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              Госфильмофонд. Машина времени HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31929/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="",																                                              RT Documentary
@@ -1224,6 +1238,10 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7248/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7249/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                                                                        Кинохит HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7250/index.m3u8
+#EXTINF:0 tvg-rec="7",                                Hollywood HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/209/index.m3u8
+#EXTINF:0 tvg-rec="3",                                Bollywood HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/239/index.m3u8
 #EXTINF:-1 tvg-logo="",													      KinoJam 1 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7260/index.m3u8
 #EXTINF:-1 tvg-logo="",														   	KinoJam 2 HD
@@ -1240,6 +1258,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9086/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9020/index.m3u8
 #EXTINF:-1 tvg-logo="",																Киноужас HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9033/index.m3u8
+#EXTINF:0 tvg-rec="7",                                Феникс плюс Кино
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2039/index.m3u8
 #EXTINF:-1 tvg-logo="",																ТВ 21
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9130/index.m3u8
 #EXTINF:-1 tvg-logo="",																Любимое Кино 
@@ -2208,6 +2228,9 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31828/index.m3u8
 #EXTINF:-1,																	          Real Madrid TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15248/index.m3u8
 #EXTINF:..............................................................................................................................................................
+#EXTINF:0 tvg-rec="0",                                Benfica TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19160/index.m3u8
+#EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="0",                                ORF I HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15177/index.m3u8
 #EXTINF:-1 tvg-id="ORFIII.at@HD" ,                    ORF III HD (720p)
@@ -2761,6 +2784,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
