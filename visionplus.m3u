@@ -2345,6 +2345,53 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31345/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              N24 Doku HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31346/index.m3u8
 #EXTINF:..............................................................................................................................................................
+#EXTINF:0 tvg-rec="3",                                                                                              ETV 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6402/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ETV HD 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/12011/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              ETV2 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6403/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ETV2 HD 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14132/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              ETV+ 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14133/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              FilmZone 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16016/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Kanal 2 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6404/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Duo 3 HD 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14129/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Duo 6 HD 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14130/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV3
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/18003/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              TV6
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/18004/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Kanal 2 HD 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/18002/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Kanal 7 HD 
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20079/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              1+2 EE
+#EXTGRP:Estoniya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/20082/index.m3u8
+#EXTINF:..............................................................................................................................................................
+#EXTINF:0 tvg-rec="3",                                                                                              ČT sport HD 
+#EXTGRP:Çexiya
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2551/index.m3u8
+#EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="0",                                                                                              SVT1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7350/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              SVT2 HD 
@@ -2784,6 +2831,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
