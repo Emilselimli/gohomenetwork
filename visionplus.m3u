@@ -2231,6 +2231,11 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15248/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Benfica TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19160/index.m3u8
 #EXTINF:..............................................................................................................................................................
+#EXTINF:0 tvg-rec="0",                                DR1 HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7354/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Kanal 4 HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7358/index.m3u8
+#EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="0",                                ORF I HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15177/index.m3u8
 #EXTINF:-1 tvg-id="ORFIII.at@HD" ,                    ORF III HD (720p)
@@ -2344,6 +2349,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31313/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31345/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              N24 Doku HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31346/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              RiC HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31366/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="3",                                                                                              ETV 
 #EXTGRP:Estoniya
@@ -2831,6 +2838,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
