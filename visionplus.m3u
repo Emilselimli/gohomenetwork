@@ -1122,6 +1122,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6017/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6031/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                              ТВ-3 +7
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6045/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                              START World HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19248/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              Amedia 1 HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/9069/index.m3u8
 #EXTINF:-1 tvg-logo="",																                                              Amedia 2
@@ -1308,6 +1310,12 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15349/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15350/index.m3u8
 #EXTINF:0 tvg-rec="0",                                СТС +7 (Владивосток)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15351/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Plan_B HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19249/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Индия HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19250/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Music Box Russia HD
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19255/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="",								                  Башкортостан 24  (Уфа)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/832/index.m3u8
@@ -1384,6 +1392,10 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15365/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16028/index.m3u8
 #EXTINF:0 tvg-rec="0",                                Евразия HD (Орск)
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19236/index.m3u8
+#EXTINF:0 tvg-rec="0",                                Среда HD (Каспийск)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/16002/index.m3u8
+#EXTINF:0 tvg-rec="3",                                НТК (Калмыкия)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2066/index.m3u8
 #EXTINF:-1 --------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 tvg-rec="0",                                Беларусь 24 HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/14011/index.m3u8
@@ -2749,6 +2761,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
