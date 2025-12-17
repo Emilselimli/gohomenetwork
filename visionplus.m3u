@@ -2562,8 +2562,18 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kohavision.xk@SD" tvg-logo="https://i.imgur.com/LOi9yma.png"                                     Kohavision
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:0 tvg-id="KTV.al",                                                                                          KTV
+http://136.243.32.241:8081/yWbXvr1S/ktv119new_720p/playlist.m3u8
+#EXTINF:0 tvg-id="Klan News.al",                                                                                    Klan News
+http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
+#EXTINF:-1 tvg-id="[AL] ora-news.hr",                                                                               Ora News
+http://178.33.11.6:8696/live/oranewspp1/playlist.m3u8
 #EXTINF:-1 tvg-id="T7.xk@SD" tvg-logo="https://i.postimg.cc/sxcZ6SVy/t7.png",                                       T7
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:0 tvg-id="Euronews Albania.al",                                                                             Euronews
+http://178.33.11.6:8696/live/euronewsott/playlist.m3u8
+#EXTINF:0 tvg-id="Klan Plus.al",Klan Plus
+http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-id="BHT1.ba@SD",                                                                                     BHT 1 
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
@@ -2726,6 +2736,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
