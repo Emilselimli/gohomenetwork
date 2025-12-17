@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <tv>
-  <channel id="VIPTVAZ">
+  <channel id="viptv.az">
     <display-name>VIP TV AZ</display-name>
   </channel>
 
-<programme start="20170212223000 +0000" stop="22000213005000 +0000" channel="VIP TV AZ">
+<programme start="20000212223000 +0000" stop="22000213005000 +0000" channel="VIP TV AZ">
     <title lang="en">GOHOME NETWORK </title>
     <desc lang="en"> Global Yayım Platformu</desc>
   </programme>
