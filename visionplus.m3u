@@ -395,6 +395,8 @@ https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 #EXTINF:-1,                                                                                                     ARTI TV
 http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                          can.tv
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6771/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/meltem-tv-tr.png", 									                    MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
@@ -2590,6 +2592,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6990/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6951/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Pro TV International 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7055/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Prima TV 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6995/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              BBC Earth 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7058/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              E! HD 
@@ -2624,6 +2628,20 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6959/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6960/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              JimJam 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6961/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Disney Channel RO
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6965/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Cartoon Network RO
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6966/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Disney Jr. 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6967/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Discovery Channel 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6968/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TLC HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6969/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              TeenNick 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6971/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Nickelodeon 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6972/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Kiss TV
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6962/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Alfa Omega TV
@@ -2634,8 +2652,14 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6947/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6983/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Favorit TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6979/index.m3u8
-#EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png",                                        Agro TV (360p) 
+#EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png",                                        Agro TV 
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Agro TV (vipserver)
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7023/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              Nat Geo Wild 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7021/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              National Geographic 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7018/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="3",                                                                                              Moldova 1 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/2444/index.m3u8
@@ -2885,6 +2909,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
