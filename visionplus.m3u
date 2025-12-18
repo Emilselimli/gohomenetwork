@@ -2269,6 +2269,8 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31442/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31443/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              VOX HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6061/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              VOXup 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31432/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Universal TV 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6094/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Warner TV Serie HD 
@@ -2297,6 +2299,10 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31360/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15173/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              KiKA 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/15175/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              KiKA 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31350/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Nick/Comedy Central+1 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31351/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Welt  HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7258/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              N-TV 
@@ -2464,6 +2470,11 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19188/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              ITV4 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/19189/index.m3u8
 #EXTINF:..............................................................................................................................................................
+#EXTINF:0 tvg-rec="0",                                                                                              CNN
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6499/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              CNBC Canada 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6482/index.m3u8
+#EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="3",                                                                                              CNN International Europe
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/842/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              CNBC HD
@@ -2486,10 +2497,20 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30046/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30060/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              History HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30105/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Fox Deportes HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30075/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Fox News HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30076/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Fox Sports 2 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30078/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              FXM Retro HD 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1106/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              A&E 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/1108/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              A&E HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30001/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              NESN HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/11109/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              FYI HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30085/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              HSN HD 
@@ -2528,6 +2549,10 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30063/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30066/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              ESPNU HD
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/30067/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              NBA TV HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7226/index.m3u8
+#EXTINF:0 tvg-rec="0",                                                                                              Universal Kids HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/31120/index.m3u8
 #EXTINF:..............................................................................................................................................................
 #EXTINF:0 tvg-rec="3",                                                                                              TVR 1 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6941/index.m3u8
@@ -2559,6 +2584,10 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6990/index.m3u8
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6951/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Pro TV International 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7055/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              BBC Earth 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7058/index.m3u8
+#EXTINF:0 tvg-rec="3",                                                                                              E! HD 
+http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6093/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Etno 
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/7027/index.m3u8
 #EXTINF:0 tvg-rec="3",                                                                                              Taraf TV 
@@ -2848,6 +2877,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
