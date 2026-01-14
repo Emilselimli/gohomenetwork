@@ -4,7 +4,7 @@
 #EXTINF:..............................................................................................................................................................
 #EXTINF:-1 tvg-logo="https://images-sihv2.prd.dlivecdn.com/fit-in/50x50/filters:quality(100)/avatar/32ba4ef1-f11b-11f0-8bb6-ee5838d1524a",	 Kanal Plus TV
 #EXTGRP:Azərbaycan
-https://livestreams.prdv3.dlivecdn.com/kanalplustv/1768376348/src/live.m3u8
+https://livestreams.prdv3.dlivecdn.com/kanalplustv/1768376348/src/live.m3u8?Expires=1768377247&Signature=qj6cEOYkfvCv55DctW0x2ejzJO5cQnZTJFx6ObiphNQrnKFxUlXpQklrgB7K4gra7rN8VEpRQCT4pEHLaVJBFxiHfyRrnj48mSyXnbHANRjVQVXhRPR~WBcOzq8FyREBbvj8j5CxGaCsy1E5IfBtFW9ABFvHii-A5VzBA0Mvm81NF0XaPmYY2rAtw0sS-LD3nh2geGUbRjnyphDTjDHCxdsvY7~pwAT7AEckJX5Dhjoy9UHv3ZbpywmXaZq4zEYfbSeFlnaf9l5iYfFH0ZNpI~W6DIfw9q~WTV~635pY-IHy7rWBmNTqeGJdl3TTdz00ikITzDXSSvs0D4DsJ0sYGg__&Key-Pair-Id=K2WZHW3KN5FGBZ
 
 
 #EXTINF:-1 tvg-logo="https://www.tvnet.az/uploads/channel_logos/AzTVWF.png",									                  AzTV
@@ -2916,6 +2916,7 @@ http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6681/index.m3u8
 #EXTINF:0 tvg-rec="0",                                                                                              Sanjha TV 
 #EXTGRP:Hindistan
 http://vipdomain.tvclub.xyz/iptv/3KRZE3UHZ63YCA9P42USYCWG/6682/index.m3u8
+
 
 
 
